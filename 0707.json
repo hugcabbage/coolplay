@@ -1,0 +1,20 @@
+{
+    "urls": [
+        {
+            "url": "./0826.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "./XYQ.json",
+            "name": "XYQ"
+        },
+        {
+            "url": "./pg.json",
+            "name": "PG"
+        },
+        {
+            "url": "./0911.json",
+            "name": "XYQ+PG"
+        }
+    ]
+}
