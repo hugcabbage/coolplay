@@ -676,33 +676,6 @@
             "quickSearch": 1
         },
         {
-            "key": "BLSGod",
-            "name": "🧲BLSGod",
-            "type": 3,
-            "jar": "./jar/pg.jar",
-            "api": "csp_BLSGod",
-            "changeable": 1,
-            "timeout": 60
-        },
-        {
-            "key": "Xunlei8",
-            "name": "🧲Xunlei8",
-            "type": 3,
-            "jar": "./jar/pg.jar",
-            "api": "csp_Xunlei8",
-            "changeable": 1,
-            "timeout": 60
-        },
-        {
-            "key": "SeedHub",
-            "name": "🧲SeedHub",
-            "type": 3,
-            "jar": "./jar/pg.jar",
-            "api": "csp_SeedHub",
-            "changeable": 1,
-            "timeout": 60
-        },
-        {
             "key": "快看",
             "name": "快看",
             "type": 3,
@@ -756,8 +729,8 @@
             "key": "haiwaikan",
             "name": "海外看",
             "type": 1,
-            "api": "http://proxy/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
-            "playUrl": "json:http://proxy/parse/?thread=0&proxy=proxy&url=",
+            "api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
             "searchable": 1,
             "changeable": 1,
             "categories": [
@@ -797,10 +770,10 @@
         },
         {
             "key": "ikun",
-            "name": "ikun[pg]",
+            "name": "ikun",
             "type": 1,
-            "api": "http://proxy/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
-            "playUrl": "json:http://proxy/parse/?thread=0&proxy=proxy&url=",
+            "api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1
@@ -809,8 +782,8 @@
             "key": "飞速资源",
             "name": "飞速资源",
             "type": 1,
-            "api": "http://proxy/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
-            "playUrl": "json:http://proxy/parse/?thread=0&proxy=proxy&url=",
+            "api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1
@@ -819,8 +792,8 @@
             "key": "暴風",
             "name": "暴风",
             "type": 1,
-            "api": "http://proxy/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
-            "playUrl": "json:http://proxy/parse/?thread=0&proxy=proxy&url=",
+            "api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
             "searchable": 1,
             "changeable": 1
         },
@@ -828,8 +801,8 @@
             "key": "索尼",
             "name": "索尼",
             "type": 1,
-            "api": "http://proxy/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
-            "playUrl": "json:http://proxy/parse/?thread=0&proxy=proxy&url=",
+            "api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
             "searchable": 1,
             "changeable": 1
         },
@@ -837,8 +810,8 @@
             "key": "快帆",
             "name": "快帆",
             "type": 1,
-            "api": "http://proxy/p/0/proxy/https://api.kuaifan.tv/api.php/provide/vod?",
-            "playUrl": "json:http://proxy/parse/?thread=0&proxy=proxy&url=",
+            "api": "http://127.0.0.1:10079/p/0/proxy/https://api.kuaifan.tv/api.php/provide/vod?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
             "searchable": 1,
             "changeable": 1
         },
@@ -846,8 +819,8 @@
             "key": "量子",
             "name": "量子",
             "type": 1,
-            "api": "http://proxy/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
-            "playUrl": "json:http://proxy/parse/?thread=0&proxy=proxy&url=",
+            "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1
@@ -856,8 +829,8 @@
             "key": "非凡",
             "name": "非凡",
             "type": 1,
-            "api": "http://proxy/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
-            "playUrl": "json:http://proxy/parse/?thread=0&proxy=proxy&url=",
+            "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
@@ -1875,6 +1848,15 @@
             "name": "🧲迅雷吧",
             "type": 3,
             "api": "csp_Xunlei8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_SeedHub",
+            "name": "🧲SeedHub",
+            "type": 3,
+            "api": "csp_SeedHub",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
