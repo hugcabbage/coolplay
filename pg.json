@@ -189,7 +189,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 120,
-            "ext": "file://TV/tokenm.json$$$https://www.meijumi.xyz/$$$proxy$$$1"
+            "ext": "file://TV/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
         },
         {
             "key": "Libvio",
@@ -200,7 +200,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "file://TV/tokenm.json$$$https://www.libvio.pro$$$null"
+            "ext": "file://TV/tokenm.json$$$https://www.libvio.fun/$$$null"
         },
         {
             "key": "Bt0",
