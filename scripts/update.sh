@@ -90,8 +90,8 @@ update_gao() {
         sed '/{"name":"AV","type":0,"url":".\/livex.m3u"},/d' | \
         sed 's/{"name":"初秋语","type":0,"url":".\/listx.txt"},//' | \
         jq . --indent 4 > $main_dir/9918.json
-    mv -f list.txt $main_dir/live_cqy.txt
-    mv -f radio.txt $main_dir/radio_cqy.txt
+    mv -f list.txt $main_dir/lib/live_cqy.txt
+    mv -f radio.txt $main_dir/lib/radio_cqy.txt
 
     cd jar/
     mv -f fan.txt $main_dir/jar/

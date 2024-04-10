@@ -30,9 +30,15 @@
             "name": "初秋语",
             "type": "0",
             "pass": true,
-            "url": "./live_cqy.txt",
+            "url": "./lib/live_cqy.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "初秋语广播",
+            "type": "0",
+            "pass": true,
+            "url": "./lib/radio_cqy.txt"
         }
     ],
     "sites": [
