@@ -86,61 +86,26 @@ update_gao() {
 
     cd gao/
     json-strip-comments 0826.json | jq . --indent 4 > $main_dir/0826.json
-    json-strip-comments 9918.json | \
-        sed '/{"name":"AV","type":0,"url":".\/livex.m3u"},/d' | \
-        sed 's/{"name":"初秋语","type":0,"url":".\/listx.txt"},//' | \
-        jq . --indent 4 > $main_dir/9918.json
     mv -f list.txt $main_dir/lib/live_cqy.txt
     mv -f radio.txt $main_dir/lib/radio_cqy.txt
 
     cd jar/
     mv -f fan.txt $main_dir/jar/
     cd ..
-
-    cd lib/
-    mv -f lf_search3_min.js \
-        lf_p2p2_min.js \
-        lf_live_min.js \
-        $main_dir/lib/
-    cd ..
     
     cd js/
-    mv -f 18av.js \
-        Missav.js \
-        banan.js \
-        drpy.js \
-        lf_live1.txt \
+    mv -f drpy.js \
         优酷.js \
-        养端.js \
-        吸瓜.js \
         哔哩直播.js \
         奇珍异兽.js \
-        朱古力.js \
-        猫了个咪.js \
-        玩偶姐姐.js \
         百忙无果.js \
         腾云驾雾.js \
         虎牙直播.js \
-        跑TV.js \
         $main_dir/js/
-    cd ..
-
-    cd json/
-    mv -f pikpakclass.a.json \
-        pikpakclass.a.json.db.gz \
-        pikpakclass.a1.json \
-        pikpakclass.a1.json.db.gz \
-        pikpakclass18.json \
-        pushshare.a.txt \
-        sambashare.a.txt \
-        $main_dir/lib/
     cd ..
 
     cd $main_dir/
     rm -rf $dl_dir/gao
-
-    # 删除md5
-    sed -i 's/;md5;.*"/"/g' 9918.json
     
     # 更新XYQ.jar
     wget -O jar/XYQ.jar https://github.com/xyq254245/xyqonlinerule/raw/main/custom_spider.jar > /dev/null 2>&1
@@ -148,8 +113,6 @@ update_gao() {
     sed -i "s/md5;.*\"/md5;$xyq_md5\"/g" 0911.json
 
     # 替换某些路径
-    sed -i 's#http://127.0.0.1:9978/file/TV/token.json#file://TV/tokenm.json#g' 9918.json
-    sed -i 's#\./json#\./lib#g' 9918.json
     sed -i 's#http://127.0.0.1:9978/file/tvfan/token.txt#file://TV/ali_token.txt#g' 0826.json
 
     add_and_commit "update gao"
