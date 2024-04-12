@@ -35,6 +35,22 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
+            "name": "zjx",
+            "type": "0",
+            "pass": true,
+            "url": "./lib/live_zjx591044037.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "央视频",
+            "type": "0",
+            "pass": true,
+            "url": "./lib/live_ysp.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "初秋语",
             "type": "0",
             "pass": true,
