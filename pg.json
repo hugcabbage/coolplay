@@ -347,7 +347,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "file://TV/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+            "ext": "file://TV/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
         },
         {
             "key": "Bdys_spider",
@@ -721,6 +721,17 @@
             "changeable": 1,
             "ext": "./lib/jianpian.json$$$1",
             "timeout": 60
+        },
+        {
+            "key": "Ikanbot",
+            "name": "爱看机器人",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://v.ikanbot.com$$$proxy"
         },
         {
             "key": "YQKan",
