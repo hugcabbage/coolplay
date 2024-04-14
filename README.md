@@ -7,7 +7,7 @@
 1. tvbox配置：
 - 0707.json Fengmi影视多线配置接口，仅适用于Fengmi影视；
 - 0826.json 完全来源于饭太硬的jar包和配置；
-- XYQ.json XYQ源，jar包和配置来源于香雅情，[123盘更新](https://www.123pan.com/s/alSeVv-lGO0A.html)；
+- XYQ.json XYQ源，jar包和配置来源于香雅情，[github更新](https://github.com/xyq254245/xyqonlinerule.git)，[123盘更新](https://www.123pan.com/s/alSeVv-lGO0A.html)；
 - pg.json pg原版，[配置说明](README-pg.md)，[telegram频道更新](https://t.me/s/PandaGroovePG)；
 - 0911.json XYQ+PG。
 
