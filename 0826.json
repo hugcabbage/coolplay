@@ -20,8 +20,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "quarkCookie": "tvfan/cookie.txt",
+                "aliToken": "TV/ali_token.txt",
+                "quarkCookie": "TV/quark_cookie.txt",
                 "from": "4k|auto|fhd",
                 "siteUrl": "https://api.wogg.xyz/",
                 "danMu": "弹"
@@ -444,7 +444,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "quarkCookie": "tvfan/cookie.txt",
+                "quarkCookie": "TV/quark_cookie.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -457,7 +457,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
+                "aliToken": "TV/ali_token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -470,7 +470,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
+                "aliToken": "TV/ali_token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -483,7 +483,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
+                "aliToken": "TV/ali_token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -496,7 +496,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
+                "aliToken": "TV/ali_token.txt",
                 "from": "4k|auto|fhd"
             }
         },
@@ -508,8 +508,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "quarkCookie": "tvfan/cookie.txt",
+                "aliToken": "TV/ali_token.txt",
+                "quarkCookie": "TV/quark_cookie.txt",
                 "from": "4k|auto|fhd"
             }
         },

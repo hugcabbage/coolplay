@@ -119,7 +119,8 @@ update_gao() {
     sed -i "s/md5;.*\"/md5;$xyq_md5\"/g" 0911.json
 
     # 替换某些路径
-    sed -i 's#http://127.0.0.1:9978/file/tvfan/token.txt#file://TV/ali_token.txt#g' 0826.json
+    sed -i 's#tvfan/token.txt#TV/ali_token.txt#g' 0826.json
+    sed -i 's#tvfan/cookie.txt#TV/quark_cookie.txt#g' 0826.json
 
     add_and_commit "update gao"
     return $?
