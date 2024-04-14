@@ -29,7 +29,9 @@ add_and_commit() {
     if [ -n "$change_status" ]; then
         echo "[git]检测到有以下文件改动："
         echo "$change_status"
-
+        if [ "$dry_on" == "yes" ]; then
+            return 2
+        fi
         if [ -t 0 ]; then
             local msg="$1"
         else
@@ -69,7 +71,7 @@ push_to_remote() {
 update_gao() {
     cd $dl_dir/
     wget -O gao_tv.zip https://github.com/gaotianliuyun/gao/archive/refs/heads/master.zip > /dev/null 2>&1
-    if [ ! -f gao_tv.zip ]; then
+    if [ ! $? -eq 0 ]; then
         echo "gao_tv.zip下载失败，请检查错误或重试！"
         return 1
     fi
@@ -109,6 +111,10 @@ update_gao() {
     
     # 更新XYQ.jar
     wget -O jar/XYQ.jar https://github.com/xyq254245/xyqonlinerule/raw/main/custom_spider.jar > /dev/null 2>&1
+    if [ ! $? -eq 0 ]; then
+        echo "XYQ.jar下载失败，请检查错误或重试！"
+        return 1
+    fi
     local xyq_md5=$(get_md5 jar/XYQ.jar)
     sed -i "s/md5;.*\"/md5;$xyq_md5\"/g" 0911.json
 
@@ -189,6 +195,7 @@ update_pg() {
 }
 
 # ------------主程序------------
+dry_on=$1
 main_dir=$(pwd)
 dl_dir=$main_dir/download
 date
