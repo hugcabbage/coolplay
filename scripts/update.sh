@@ -29,7 +29,7 @@ add_and_commit() {
     if [ -n "$change_status" ]; then
         echo "[git]检测到有以下文件改动："
         echo "$change_status"
-        if [ "$dry_on" == "yes" ]; then
+        if [ "$dry_on" == true ]; then
             return 2
         fi
         if [ -t 0 ]; then
@@ -196,10 +196,22 @@ update_pg() {
 }
 
 # ------------主程序------------
-dry_on=$1
+dry_on=false
 main_dir=$(pwd)
 dl_dir=$main_dir/download
 date
+
+# 解析参数
+TEMP=`getopt -o d --long dry-on -n 'update.sh' -- "$@"`
+eval set -- "$TEMP"
+
+while true ; do
+    case "$1" in
+        -d|--dry-on) dry_on=true ; shift ;;
+        --) shift ; break ;;
+        *) echo "参数错误！" ; exit 1 ;;
+    esac
+done
 
 # dl_dir不存在则创建
 if [ ! -d $dl_dir ]; then
