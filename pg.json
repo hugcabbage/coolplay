@@ -240,6 +240,17 @@
             "ext": "file://TV/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
+            "key": "Wo4k",
+            "name": "玩偶4K|磁力",
+            "type": 3,
+            "api": "csp_Wo4k",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "file://TV/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"
+        },
+        {
             "key": "Wobg",
             "name": "玩偶表哥|网盘",
             "type": 3,
