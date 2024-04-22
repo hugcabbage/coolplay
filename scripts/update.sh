@@ -87,7 +87,7 @@ update_gao() {
     mv -f gao-master gao
 
     cd gao/
-    json-strip-comments 0826.json | jq . --indent 4 > $main_dir/0826.json
+    python3 -m jsonstrip < 0826.json | jq . --indent 4 > $main_dir/0826.json
     mv -f list.txt $main_dir/lib/live_cqy.txt
     mv -f radio.txt $main_dir/lib/radio_cqy.txt
 
