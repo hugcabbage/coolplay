@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "./0826.json",
+            "url": "./fan.json",
             "name": "饭太硬"
         },
         {
@@ -13,7 +13,7 @@
             "name": "PG"
         },
         {
-            "url": "./0911.json",
+            "url": "./cool.json",
             "name": "XYQ+PG"
         }
     ]

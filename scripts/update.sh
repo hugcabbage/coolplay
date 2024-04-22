@@ -87,7 +87,7 @@ update_gao() {
     mv -f gao-master gao
 
     cd gao/
-    python3 -m jsonstrip < 0826.json | jq . --indent 4 > $main_dir/0826.json
+    python3 -m jsonstrip < 0826.json | jq . --indent 4 > $main_dir/fan.json
     mv -f list.txt $main_dir/lib/live_cqy.txt
     mv -f radio.txt $main_dir/lib/radio_cqy.txt
 
@@ -116,11 +116,11 @@ update_gao() {
         return 1
     fi
     local xyq_md5=$(get_md5 jar/XYQ.jar)
-    sed -i "s/md5;.*\"/md5;$xyq_md5\"/g" 0911.json
+    sed -i "s/md5;.*\"/md5;$xyq_md5\"/g" cool.json
 
     # 替换某些路径
-    sed -i 's#tvfan/token.txt#TV/ali_token.txt#g' 0826.json
-    sed -i 's#tvfan/cookie.txt#TV/quark_cookie.txt#g' 0826.json
+    sed -i 's#tvfan/token.txt#TV/ali_token.txt#g' fan.json
+    sed -i 's#tvfan/cookie.txt#TV/quark_cookie.txt#g' fan.json
 
     add_and_commit "update gao"
     return $?
