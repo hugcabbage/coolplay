@@ -211,7 +211,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "null$$$null$$$1"
+            "ext": "file://TV/tokenm.json$$$null$$$proxy$$$1"
         },
         {
             "key": "Xpanpan",
