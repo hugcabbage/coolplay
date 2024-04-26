@@ -29,7 +29,6 @@ https://framagit.org/hugcabbage/coolplay/-/raw/master/all.json
 - 霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 - 小米小爆脾气：http://xhww.fun:63/小米/DEMO.json
 - 菜妮丝：https://tvbox.cainisi.cf
-- 南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 - 神器：https://神器每日推送.tk/pz.json
 - 巧技：http://pandown.pro/tvbox/tvbox.json
 - Ray：https://100km.top/0

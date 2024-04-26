@@ -3,14 +3,6 @@
     "spider": "./jar/XYQ.jar;md5;0578e48b03db152d0f0bbb03704d4ab5",
     "lives": [
         {
-            "name": "Yoursmile7",
-            "type": "0",
-            "pass": true,
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "JUNDIE",
             "type": "0",
             "pass": true,
