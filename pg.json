@@ -211,7 +211,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "file://TV/tokenm.json$$$null$$$192.168.101.1:1080$$$1",
+            "ext": "file://TV/tokenm.json$$$null$$$proxy$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
