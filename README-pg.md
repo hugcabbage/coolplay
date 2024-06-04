@@ -18,7 +18,6 @@ tokenm.json格式说明：
 
 ```json
 {
-"use_internal_storage":false, //如果播放设备（比如某些智能电视机）没有SD卡读写权限，则把本项目设置为true可以正常处理缓存
 "token":"这里填写阿里云盘的32位token，也可以不填写，在播放阿里云盘内容时会弹出窗口，点击QrCode，用阿里云盘app扫码",
 "open_token":"这里填写通过alist或其他openapi提供方申请的280位aliyun openapi token，也可以不写，会自动隐藏转存原画",
 "thread_limit":32, //这里是阿里云盘的GO代理的并发协程数或java代理的并发线程数，若遇到账号被限制并发数，请将此数值改为10
