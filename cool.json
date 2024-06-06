@@ -150,6 +150,24 @@
             }
         },
         {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "jar": "./jar/pg.jar",
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "type": "直播#新闻#音乐#体育#剧集#电影#8K#4K#HDR#movie#music#documentary",
+                "proxy": "proxy"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
             "key": "美剧迷",
             "name": "美剧迷|网盘",
             "type": 3,
