@@ -76,7 +76,7 @@
         },
         {
             "key": "QuarkShare",
-            "name": "夸克云盘分享",
+            "name": "夸克网盘分享",
             "type": 3,
             "api": "csp_QuarkShare",
             "searchable": 0,
@@ -886,7 +886,7 @@
         },
         {
             "key": "drpy_js_愛盤搜",
-            "name": "爱盘搜[js]|夸",
+            "name": "爱盘搜[js]|夸克搜索",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/aipanso.js",
@@ -939,7 +939,7 @@
         },
         {
             "key": "UP云搜",
-            "name": "阿里|UP云搜",
+            "name": "UP云搜|阿里搜索",
             "type": 3,
             "api": "csp_UpYun",
             "timeout": 30,
