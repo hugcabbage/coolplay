@@ -1329,15 +1329,6 @@
             "jar": "./jar/XBPQ.jar"
         },
         {
-            "key": "csp_BLSGod",
-            "name": "🧲80S影视",
-            "type": 3,
-            "api": "csp_BLSGod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_KubaCL",
             "name": "🧲酷吧电影",
             "type": 3,
@@ -1413,16 +1404,6 @@
             "ext": "./XYQHiker/BT天堂.json"
         },
         {
-            "key": "csp_XYQHiker_极影网",
-            "name": "🧲极影网(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/极影网.json"
-        },
-        {
             "key": "csp_XYQHiker_高清MP4",
             "name": "🧲高清MP4(XYQH)",
             "type": 3,
@@ -1441,16 +1422,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/蚂蚁4K.json"
-        },
-        {
-            "key": "csp_XYQHiker_哔嘀影视",
-            "name": "🧲哔嘀影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/哔嘀影视.json"
         },
         {
             "key": "csp_XYQHiker_磁力熊",
@@ -1482,69 +1453,10 @@
             "filterable": 1
         },
         {
-            "key": "emofun",
-            "name": "EmoFun",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://one3.emofun.top/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "csp_appysv2_看剧吧",
-            "name": "看剧吧(普通)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://app.ishen520.com/api.php/v1.vod"
-        },
-        {
-            "key": "gczc",
-            "name": "官采站C",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.12.90.7:86/api.php/app/"
-        },
-        {
-            "key": "csp_Bdys",
-            "name": "🐞哔嘀影视",
-            "type": 3,
-            "api": "csp_Bdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "🐞厂长资源",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.czzy55.com"
-        },
-        {
             "key": "csp_Ddys",
             "name": "🐞低端影视",
             "type": 3,
             "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_短剧网",
-            "name": "短剧网",
-            "type": 3,
-            "api": "csp_Duanjuw",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1567,22 +1479,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+            "ext": "http://112.124.0.131:20000"
         },
         {
             "key": "csp_Kuaikan",
             "name": "💡快看影视",
             "type": 3,
             "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "🐞77影视",
-            "type": 3,
-            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1637,46 +1540,6 @@
             "ext": "./XYQHiker/酷奇MV.json"
         },
         {
-            "key": "csp_XYQHiker_996影视",
-            "name": "996影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/996影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_迷迷剧",
-            "name": "迷迷剧(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/迷迷剧.json"
-        },
-        {
-            "key": "csp_XYQHiker_MOFLIX影院",
-            "name": "MOFLIX影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/MOFLIX影院.json"
-        },
-        {
-            "key": "csp_XYQHiker_好戏网",
-            "name": "好戏网(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/好戏网.json"
-        },
-        {
             "key": "csp_XYQHiker_量子影视",
             "name": "量子影视(HM2)",
             "type": 3,
@@ -1717,36 +1580,6 @@
             "ext": "./XYQHiker/55影视.json"
         },
         {
-            "key": "csp_XYQHiker_555影视",
-            "name": "555影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/555影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_A8影视",
-            "name": "A8影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/A8影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_极客影院",
-            "name": "极客影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/极客影院.json"
-        },
-        {
             "key": "csp_XYQHiker_臭蛋蛋影视",
             "name": "臭蛋蛋影视(HM2)",
             "type": 3,
@@ -1755,16 +1588,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/臭蛋蛋影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_农民影视",
-            "name": "🧑🏻‍农民影视(HM2)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/农民影视.json"
         },
         {
             "key": "csp_XYQHiker_奇趣影视",
@@ -1797,16 +1620,6 @@
             "ext": "./XYQHiker/歪片星球.json"
         },
         {
-            "key": "csp_XYQHiker_98影院",
-            "name": "98影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/98影院.json"
-        },
-        {
             "key": "csp_XYQHiker_七新影视",
             "name": "七新影视(XYQH)",
             "type": 3,
@@ -1815,46 +1628,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/七新影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_深蓝影视",
-            "name": "深蓝影视(HM2)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/深蓝影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_达达龟",
-            "name": "达达龟(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/达达龟.json"
-        },
-        {
-            "key": "csp_XYQHiker_兄弟影视",
-            "name": "兄弟影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/兄弟影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_干饭影视",
-            "name": "干饭影视(HM2)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/干饭影视.json"
         },
         {
             "key": "csp_XYQHiker_看一看影视",
@@ -1877,26 +1650,6 @@
             "ext": "./XYQHiker/秋霞电影.json"
         },
         {
-            "key": "csp_XYQHiker_秋霞电影网",
-            "name": "🦞秋霞电影网(HM2)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/秋霞电影网.json"
-        },
-        {
-            "key": "csp_XYQHiker_乐猪影视",
-            "name": "🐷乐猪影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/乐猪TV.json"
-        },
-        {
             "key": "csp_XYQHiker_在线之家",
             "name": "在线之家(HM1)",
             "type": 3,
@@ -1905,26 +1658,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/在线之家.json"
-        },
-        {
-            "key": "csp_XYQHiker_HDmoli",
-            "name": "HDmoli(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/HDmoli.json"
-        },
-        {
-            "key": "csp_XYQHiker_voflixHD",
-            "name": "voflixHD(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/voflix HD.json"
         },
         {
             "key": "csp_XYQHiker_奈飞中文",
@@ -1988,26 +1721,6 @@
             "ext": "./XYQHiker/电影盒子.json"
         },
         {
-            "key": "csp_XYQHiker_耐看点播",
-            "name": "耐看点播(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/耐看点播.json"
-        },
-        {
-            "key": "csp_XYQHiker_速搜影院",
-            "name": "速搜影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/速搜影院.json"
-        },
-        {
             "key": "csp_XYQHiker_疯狗影视",
             "name": "🐶疯狗影视(XYQH)",
             "type": 3,
@@ -2026,26 +1739,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/爱看影院.json"
-        },
-        {
-            "key": "csp_XYQHiker_爱看影视",
-            "name": "爱看影视(真不卡)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/爱看影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_GimyTV劇迷",
-            "name": "GimyTV劇迷✈️(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/GimyTV劇迷.json"
         },
         {
             "key": "csp_XYQHiker_子子影视",
@@ -2069,17 +1762,6 @@
             "ext": "./XYQHiker/素白白影视.json"
         },
         {
-            "key": "csp_XYQHiker_厂长影视",
-            "name": "厂长影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/厂长影视.json"
-        },
-        {
             "key": "csp_XYQHiker_可可影视",
             "name": "可可影视(XYQH)",
             "type": 3,
@@ -2089,98 +1771,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/可可影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_COKEMV影院",
-            "name": "COKEMV影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/COKEMV影院.json"
-        },
-        {
-            "key": "csp_XYQHiker_CokemvFun",
-            "name": "CokemvFun(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/CokemvFun.json"
-        },
-        {
-            "key": "csp_XYQHiker_MayiTube",
-            "name": "MayiTube(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/MayiTube.json"
-        },
-        {
-            "key": "csp_XYQHiker_Vidhub视频库",
-            "name": "🎥Vidhub视频库(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/Vidhub视频库.json"
-        },
-        {
-            "key": "csp_XYQHiker_宝仙HD",
-            "name": "宝仙HD(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/宝仙HD.json"
-        },
-        {
-            "key": "csp_XYQHiker_l0l影院",
-            "name": "l0l影院(HM2)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/l0l影院.json"
-        },
-        {
-            "key": "csp_XYQHiker_锐行加速影院",
-            "name": "锐行加速影院(HM2)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/锐行加速影院.json"
-        },
-        {
-            "key": "csp_XYQHiker_虎牙直播",
-            "name": "🐯虎牙直播(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./XYQHiker/虎牙直播.json"
-        },
-        {
-            "key": "csp_XYQHiker_斗鱼直播",
-            "name": "🐠斗鱼直播(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./XYQHiker/斗鱼直播.json"
         },
         {
             "key": "csp_Yj1211",
