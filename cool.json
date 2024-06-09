@@ -698,14 +698,6 @@
             }
         },
         {
-            "key": "愛看",
-            "name": "爱看",
-            "type": 3,
-            "api": "./js/ikanbot_open.js",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "drpy_js_人人影视",
             "name": "人人影视[js]|搜",
             "type": 3,
@@ -1501,7 +1493,7 @@
         },
         {
             "key": "csp_XYQHiker_異世界動漫",
-            "name": "異世界動漫(HM2)",
+            "name": "异世界动漫(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
