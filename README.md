@@ -24,6 +24,7 @@ https://gitdl.cn/https://raw.githubusercontent.com/hugcabbage/coolplay/master/al
 ### pg说明
 <details>
   <summary>点击展开/关闭</summary>
+
 把zip文件解压缩到安卓设备的/sdcard/tvbox/JS/目录
 
 复制lib/tokentemplate.json成为lib/tokenm.json，并填写必要的内容
