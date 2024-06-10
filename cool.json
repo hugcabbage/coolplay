@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;f52f3dbfc992111a8de768aa10e9f025",
+    "spider": "./jar/pg.jar;md5;c95340ad716d0617a28c53fd7b4db374",
     "lives": [
         {
             "name": "JUNDIE",
