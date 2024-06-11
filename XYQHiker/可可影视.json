@@ -47,7 +47,7 @@
     "搜索截取模式": "1",
     "搜索列表数组规则": ".search-result-list&&a",
     "搜索片单是否Jsoup写法": "是",
-    "搜索片单图片": "'https://vres.miximixi.me'.lazyload&&data-original",
+    "搜索片单图片": "'https://vres.miximixi.me'+.lazyload&&data-original",
     "搜索片单标题": ".title&&Text",
     "搜索片单链接": "a&&href",
     "搜索片单副标题": ".search-result-item-header&&Text",
