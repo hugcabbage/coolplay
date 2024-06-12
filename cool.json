@@ -1770,19 +1770,21 @@
             "quickSearch": 1
         },
         {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "jar": "./jar/XYQ.jar",
+            "api": "csp_PushAgent",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "file://TV/ali_token.txt"
+        },
+        {
             "key": "Local",
             "name": "本地",
             "type": 3,
             "api": "csp_Local"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "changeable": 0,
-            "timeout": 30,
-            "ext": "file://TV/tokenm.json"
         },
         {
             "key": "應用商店",

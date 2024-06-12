@@ -35,16 +35,6 @@
     ],
     "sites": [
         {
-            "key": "csp_LocalFile",
-            "name": "💻本地视频",
-            "type": 3,
-            "api": "csp_LocalFile",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "type_flag": 0
-        },
-        {
             "key": "drpy_js_豆瓣",
             "name": "豆瓣[js]",
             "type": 3,
@@ -148,16 +138,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/云盘资源.json"
-        },
-        {
-            "key": "push_agent",
-            "name": "📽推送",
-            "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "file://TV/ali_token.txt"
         },
         {
             "key": "csp_Mp4Mov",
@@ -648,6 +628,26 @@
             "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "csp_LocalFile",
+            "name": "💻本地视频",
+            "type": 3,
+            "api": "csp_LocalFile",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "type_flag": 0
+        },
+        {
+            "key": "push_agent",
+            "name": "📽推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "file://TV/ali_token.txt"
         }
     ],
     "parses": [
