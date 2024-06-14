@@ -590,6 +590,16 @@
             "ext": "./XYQHiker/可可影视.json"
         },
         {
+            "key": "csp_XYQHiker_555影视",
+            "name": "555影视(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/555影视.json"
+        },
+        {
             "key": "csp_Yj1211",
             "name": "JustLive",
             "type": 3,
