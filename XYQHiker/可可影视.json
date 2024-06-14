@@ -10,7 +10,7 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "是",
     "分类起始页码": "1",
-    "分类链接": "https://www.keke1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catepg}.html",
+    "分类链接": "https://www.keke1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
     "分类名称": "电影&连续剧&动漫&综艺记录&短剧",
     "分类名称替换词": "1&2&3&4&6",
     "筛选数据": "ext",
