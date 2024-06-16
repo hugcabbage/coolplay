@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;5838f59846cdb3b628716892f86b6f6f",
+    "spider": "./jar/pg.jar;md5;2dec5264e5e2ebf4f7808917010beb5c",
     "lives": [
         {
             "name": "JUNDIE",
@@ -564,7 +564,7 @@
                 "链接": "https://m.cfkj86.com/detail/+vod_id\":&&,",
                 "线路二次截取": "",
                 "线路数组": "span class=\"label\">&&/span>",
-                "线路标题": "🐾Joao专线",
+                "线路标题": "文才",
                 "播放数组": "episodeList\":\\[&&\\][替换:nid\":>>nid\":/1/]",
                 "播放列表": "{&&}",
                 "播放标题": "name\":\"&&\"",
