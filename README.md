@@ -43,7 +43,7 @@ https://gitdl.cn/https://raw.githubusercontent.com/hugcabbage/coolplay/master/al
 
 tokenm.json格式说明：
 
-```json
+```jsonc
 {
 "token":"这里填写阿里云盘的32位token，也可以不填写，在播放阿里云盘内容时会弹出窗口，点击QrCode，用阿里云盘app扫码",
 "open_token":"这里填写通过alist或其他openapi提供方申请的280位aliyun openapi token，也可以不写，会自动隐藏转存原画",
