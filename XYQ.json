@@ -112,6 +112,14 @@
             "ext": "./js/斗鱼直播.js"
         },
         {
+            "key": "直播转点播",
+            "name": "电视直播",
+            "type": 3,
+            "searchable": 0,
+            "api": "./lib/live2vod.js",
+            "ext": "./lib/_live2vod.json"
+        },
+        {
             "key": "csp_Zhaozy",
             "name": "📀找资源(搜索)",
             "type": 3,

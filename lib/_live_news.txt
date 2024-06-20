@@ -1,0 +1,27 @@
+港澳台,#genre#
+凤凰卫视中文台,http://103.95.24.37:880/fhws.m3u8
+凤凰卫视资讯台,http://103.95.24.37:880/fhzx.m3u8
+凤凰卫视资讯台,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+凤凰卫视资讯台,http://www.372583307.top:4022/udp/233.50.200.192:5140
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+
+YouTube,#genre#
+凤凰卫视资讯台,https://www.youtube.com/watch?v=HFib76ySpbU
+寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
+台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
+民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
+华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
+东森新闻,https://www.youtube.com/watch?v=2dfAzcDf8Zg
+公视新闻,https://www.youtube.com/watch?v=quwqlazU-c8
+镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
+TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
+CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
+NBC News NOW,https://www.youtube.com/watch?v=oGDHdE5EaAo
+YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
+ABC News,https://www.youtube.com/watch?v=gN0PZCe-kwQ

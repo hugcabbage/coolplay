@@ -22,7 +22,7 @@
             "name": "新闻台",
             "type": "0",
             "pass": true,
-            "url": "./lib/live_news.txt",
+            "url": "./lib/_live_news.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -71,7 +71,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "file://TV/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
+            "ext": "file://TV/tokenm.json$$$./lib/_pushshare.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -97,6 +97,14 @@
                 "type": "rect",
                 "ratio": 1.5
             }
+        },
+        {
+            "key": "直播转点播",
+            "name": "电视直播",
+            "type": 3,
+            "searchable": 0,
+            "api": "./lib/live2vod.js",
+            "ext": "./lib/_live2vod.json"
         },
         {
             "key": "ddys",

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "范明明IPv6",
+        "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+    },
+    {
+        "name": "范明明IPv6Plus",
+        "url": "https://live.fanmingming.com/tv/m3u/ipv6Plus.m3u"
+    },
+    {
+        "name": "新闻台",
+        "url": "./_live_news.txt"
+    },
+    {
+        "name": "俊于",
+        "url": "http://home.jundie.top:81/Cat/tv/live.txt"
+    }
+]
