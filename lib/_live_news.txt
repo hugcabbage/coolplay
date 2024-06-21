@@ -7,19 +7,20 @@
 
 YouTube,#genre#
 凤凰卫视资讯台,https://www.youtube.com/watch?v=HFib76ySpbU
-寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
+中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
-民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
+中视新闻,https://www.youtube.com/watch?v=rO9tl-LyaZo
 华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
+民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
 东森新闻,https://www.youtube.com/watch?v=2dfAzcDf8Zg
 公视新闻,https://www.youtube.com/watch?v=quwqlazU-c8
 镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
-TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
 NBC News NOW,https://www.youtube.com/watch?v=oGDHdE5EaAo
