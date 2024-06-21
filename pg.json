@@ -1009,7 +1009,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/alistjar.json"
+            "ext": "./lib/alistjar.json"
         },
         {
             "key": "快看",
@@ -1257,7 +1257,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/alist.json"
+            "ext": "./lib/alist.json"
         },
         {
             "key": "MV_vod",
