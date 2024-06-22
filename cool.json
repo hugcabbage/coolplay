@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;47f17e8c59b4687e50fda4f62908c95b",
+    "spider": "./jar/pg.jar;md5;87331b204c21ef4f17973cad59cc1b92",
     "lives": [
         {
             "name": "JUNDIE",
@@ -43,14 +43,11 @@
     ],
     "sites": [
         {
-            "key": "豆瓣",
+            "key": "drpy_豆瓣",
             "name": "豆瓣",
             "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "indexs": 1,
-            "ext": "./lib/douban.json"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/豆瓣.js"
         },
         {
             "key": "网盘配置",
@@ -59,7 +56,11 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": "file://TV/tokenm.json"
+            "ext": "file://TV/tokenm.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
         },
         {
             "key": "PushShare",
@@ -105,6 +106,76 @@
             "searchable": 0,
             "api": "./lib/live2vod.js",
             "ext": "./lib/_live2vod.json"
+        },
+        {
+            "key": "drpy_360影视",
+            "name": "360影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/360影视.js"
+        },
+        {
+            "key": "drpy_搜狗视频",
+            "name": "搜狗视频",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/搜狗视频.js"
+        },
+        {
+            "key": "drpy_芒果TV",
+            "name": "芒果TV",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/芒果TV.js"
+        },
+        {
+            "key": "drpy_腾讯视频",
+            "name": "腾讯视频",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/腾讯视频.js"
+        },
+        {
+            "key": "drpy_优酷",
+            "name": "优酷",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/优酷.js"
+        },
+        {
+            "key": "drpy_爱奇异",
+            "name": "爱奇异",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/爱奇异.js"
+        },
+        {
+            "key": "drpy_哔哩影视",
+            "name": "哔哩影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/哔哩影视.js"
+        },
+        {
+            "key": "drpy_哔哩直播",
+            "name": "哔哩直播",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/哔哩直播.js"
+        },
+        {
+            "key": "drpy_虎牙直播",
+            "name": "虎牙直播",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/虎牙直播.js"
+        },
+        {
+            "key": "drpy_斗鱼直播",
+            "name": "斗鱼直播",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/斗鱼直播.js"
         },
         {
             "key": "ddys",
