@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;47f17e8c59b4687e50fda4f62908c95b",
+    "spider": "./jar/pg.jar;md5;87331b204c21ef4f17973cad59cc1b92",
     "sites": [
         {
             "key": "豆瓣",
@@ -39,7 +39,11 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": "file://TV/tokenm.json"
+            "ext": "file://TV/tokenm.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
         },
         {
             "key": "Local",
