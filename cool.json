@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;87331b204c21ef4f17973cad59cc1b92",
+    "spider": "./jar/pg.jar;md5;f27b382249f2dd90fe5408e1130f3859",
     "lives": [
         {
             "name": "JUNDIE",
@@ -326,7 +326,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "file://TV/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "file://TV/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "新6V",
