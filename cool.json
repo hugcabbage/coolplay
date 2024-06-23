@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;f27b382249f2dd90fe5408e1130f3859",
+    "spider": "./jar/pg.jar;md5;d3319c2426f337250bcddf1aa09e45c0",
     "lives": [
         {
             "name": "JUNDIE",
@@ -67,9 +67,9 @@
             "name": "我的资源分享",
             "type": 3,
             "api": "csp_PushShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
             "filterable": 0,
             "timeout": 60,
             "ext": "file://TV/tokenm.json$$$./lib/_pushshare.txt$$$db$$$1",
