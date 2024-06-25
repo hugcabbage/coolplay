@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;70398ebc63354e2e33d698741ffb3f5e",
+    "spider": "./jar/pg.jar;md5;bdf214cf114fe5d826706582825b8c55",
     "lives": [
         {
             "name": "JUNDIE",
@@ -96,7 +96,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.5
+                "ratio": 1.77
             }
         },
         {
