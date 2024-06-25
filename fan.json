@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fan.jar;md5;19835343a0066e1836802cdfaacb962f",
+    "spider": "./jar/fan.jar;md5;a610e504d51ef5a186ffb53c7c8072ac",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -56,17 +56,6 @@
             "changeable": 1
         },
         {
-            "key": "Zx4k",
-            "name": "🚝专线|秒播",
-            "type": 3,
-            "api": "csp_Zx4k",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "Lib",
             "name": "🌟立播|秒播",
             "type": 3,
@@ -78,6 +67,17 @@
                 "quarkCookie": "TV/quark_cookie.txt",
                 "from": "4k|auto|fhd"
             }
+        },
+        {
+            "key": "Zx4k",
+            "name": "🚝专线|秒播",
+            "type": 3,
+            "api": "csp_Zx4k",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "原创",
