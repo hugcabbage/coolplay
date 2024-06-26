@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/hugcabbage/coolplay)
+![GitHub file size in bytes](https://img.shields.io/github/size/hugcabbage/coolplay/jar%2Fpg.jar?label=pg.jar%20size)
+![GitHub file size in bytes](https://img.shields.io/github/size/hugcabbage/coolplay/jar%2FXYQ.jar?label=XYQ.jar%20size)
+![GitHub last commit](https://img.shields.io/github/last-commit/hugcabbage/coolplay)
+
 所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 
 所有直接或间接使用本仓库内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本仓库内容。如对本仓库内容的功能有需求，应自行开发相关功能。所有基于本仓库内容的源代码，进行的任何修改，为其他个人或组织的自发行为，与本仓库内容没有任何直接或间接的关系，所造成的一切后果亦与本仓库内容和本仓库管理者无关。
