@@ -384,20 +384,6 @@
             "ext": "file://TV/tokenm.json$$$null$$$proxy$$$1"
         },
         {
-            "key": "drpy_js_愛盤搜",
-            "name": "爱盘搜[js]|夸克搜索",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/aipanso.js",
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
             "key": "DaPanSo",
             "name": "大盘搜|网盘搜索",
             "type": 3,
