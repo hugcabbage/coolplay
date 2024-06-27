@@ -18,11 +18,15 @@ https://framagit.org/hugcabbage/coolplay/-/raw/master/all.json
 ```text
 https://gitdl.cn/https://raw.githubusercontent.com/hugcabbage/coolplay/master/all.json
 ```
+- github2
+```text
+https://gh-proxy.com/https://raw.githubusercontent.com/hugcabbage/coolplay/master/all.json
+```
 
 ### 配置说明
-- all.json fengmi影视多线配置接口，仅适用于fengmi影视；
-- fan.json 饭太硬的jar包和配置；
-- XYQ.json XYQ源，jar包和配置来源于香雅情，[github更新](https://github.com/xyq254245/xyqonlinerule.git)，[123盘更新](https://www.123pan.com/s/alSeVv-lGO0A.html)；
+- all.json 蜂蜜影视多线路配置源；
+- fan.json 饭太硬的jar包和配置，[饭太硬源](http://www.饭太硬.com/tv/)；
+- XYQ.json 香雅情的jar包和配置，[github更新](https://github.com/xyq254245/xyqonlinerule.git)，[123盘更新](https://www.123pan.com/s/alSeVv-lGO0A.html)；
 - pg.json pg源，[配置说明](#pg说明)，[telegram频道更新](https://t.me/s/PandaGroovePG)；
 - cool.json XYQ+PG。
 
