@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
+    "spider": "./jar/pg.jar;md5;30758301930316748eb0ad79d8cdbce7",
     "lives": [
         {
             "name": "JUNDIE",
@@ -1272,7 +1272,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_XYQHiker_电影港",
+            "key": "XYQHiker_电影港",
             "name": "🧲电影港(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1283,7 +1283,7 @@
             "ext": "./XYQHiker/电影港磁力.json"
         },
         {
-            "key": "csp_XYQHiker_BT天堂",
+            "key": "XYQHiker_BT天堂",
             "name": "🧲✈️BT天堂(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1294,7 +1294,7 @@
             "ext": "./XYQHiker/BT天堂.json"
         },
         {
-            "key": "csp_XYQHiker_高清MP4",
+            "key": "XYQHiker_高清MP4",
             "name": "🧲高清MP4(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1305,7 +1305,7 @@
             "ext": "./XYQHiker/高清MP4.json"
         },
         {
-            "key": "csp_XYQHiker_蚂蚁4K",
+            "key": "XYQHiker_蚂蚁4K",
             "name": "🧲蚂蚁4K(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1316,7 +1316,7 @@
             "ext": "./XYQHiker/蚂蚁4K.json"
         },
         {
-            "key": "csp_XYQHiker_磁力熊",
+            "key": "XYQHiker_磁力熊",
             "name": "🧲磁力熊(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1327,8 +1327,8 @@
             "ext": "./XYQHiker/磁力熊.json"
         },
         {
-            "key": "csp_XYQHikerAL_4KHDR",
-            "name": "🧲📀4KHDR(盘/磁)",
+            "key": "XYQHikerAL_4KHDR",
+            "name": "🧲📀4KHDR(盘/磁)(XYQHAL)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHikerAL",
@@ -1399,8 +1399,8 @@
             "searchable": 1
         },
         {
-            "key": "csp_XYQHiker_異世界動漫",
-            "name": "异世界动漫(HM2)",
+            "key": "XYQHiker_異世界動漫",
+            "name": "异世界动漫(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHiker",
@@ -1410,7 +1410,7 @@
             "ext": "./XYQHiker/異世界動漫.json"
         },
         {
-            "key": "csp_XYQHiker_有声小说吧",
+            "key": "XYQHiker_有声小说吧",
             "name": "有声小说吧(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1421,7 +1421,7 @@
             "ext": "./XYQHiker/有声小说吧.json"
         },
         {
-            "key": "csp_XYQHiker_DJ呦呦音乐网",
+            "key": "XYQHiker_DJ呦呦音乐网",
             "name": "DJ呦呦音乐网(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1432,7 +1432,7 @@
             "ext": "./XYQHiker/DJ呦呦音乐网.json"
         },
         {
-            "key": "csp_XYQHiker_酷奇MV",
+            "key": "XYQHiker_酷奇MV",
             "name": "酷奇MV(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1443,8 +1443,8 @@
             "ext": "./XYQHiker/酷奇MV.json"
         },
         {
-            "key": "csp_XYQHiker_量子影视",
-            "name": "量子影视(HM2)",
+            "key": "XYQHiker_量子影视",
+            "name": "量子影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHiker",
@@ -1454,8 +1454,8 @@
             "ext": "./XYQHiker/量子影视.json"
         },
         {
-            "key": "csp_XYQHiker_红领巾影院",
-            "name": "红领巾影院(HM2)",
+            "key": "XYQHiker_红领巾影院",
+            "name": "红领巾影院(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHiker",
@@ -1465,7 +1465,7 @@
             "ext": "./XYQHiker/红领巾影院.json"
         },
         {
-            "key": "csp_XYQHiker_小猫咪",
+            "key": "XYQHiker_小猫咪",
             "name": "小猫咪(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1476,7 +1476,7 @@
             "ext": "./XYQHiker/小猫咪.json"
         },
         {
-            "key": "csp_XYQHiker_55影视",
+            "key": "XYQHiker_55影视",
             "name": "55影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1487,8 +1487,8 @@
             "ext": "./XYQHiker/55影视.json"
         },
         {
-            "key": "csp_XYQHiker_臭蛋蛋影视",
-            "name": "臭蛋蛋影视(HM2)",
+            "key": "XYQHiker_臭蛋蛋影视",
+            "name": "臭蛋蛋影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHiker",
@@ -1498,8 +1498,8 @@
             "ext": "./XYQHiker/臭蛋蛋影视.json"
         },
         {
-            "key": "csp_XYQHiker_奇趣影视",
-            "name": "奇趣影视(HM2)",
+            "key": "XYQHiker_奇趣影视",
+            "name": "奇趣影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHiker",
@@ -1509,7 +1509,7 @@
             "ext": "./XYQHiker/奇趣影视.json"
         },
         {
-            "key": "csp_XYQHiker_乐鱼影视",
+            "key": "XYQHiker_乐鱼影视",
             "name": "乐鱼影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1520,7 +1520,7 @@
             "ext": "./XYQHiker/乐鱼影视.json"
         },
         {
-            "key": "csp_XYQHiker_歪片星球",
+            "key": "XYQHiker_歪片星球",
             "name": "歪片星球(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1531,7 +1531,7 @@
             "ext": "./XYQHiker/歪片星球.json"
         },
         {
-            "key": "csp_XYQHiker_七新影视",
+            "key": "XYQHiker_七新影视",
             "name": "七新影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1542,7 +1542,7 @@
             "ext": "./XYQHiker/七新影视.json"
         },
         {
-            "key": "csp_XYQHiker_看一看影视",
+            "key": "XYQHiker_看一看影视",
             "name": "看一看影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1553,7 +1553,7 @@
             "ext": "./XYQHiker/看一看影视.json"
         },
         {
-            "key": "csp_XYQHiker_秋霞电影",
+            "key": "XYQHiker_秋霞电影",
             "name": "秋霞电影(HM1)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1564,7 +1564,7 @@
             "ext": "./XYQHiker/秋霞电影.json"
         },
         {
-            "key": "csp_XYQHiker_在线之家",
+            "key": "XYQHiker_在线之家",
             "name": "在线之家(HM1)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1575,8 +1575,8 @@
             "ext": "./XYQHiker/在线之家.json"
         },
         {
-            "key": "csp_XYQHiker_奈飞中文",
-            "name": "奈飞中文(HM2)",
+            "key": "XYQHiker_奈飞中文",
+            "name": "奈飞中文(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHiker",
@@ -1586,8 +1586,8 @@
             "ext": "./XYQHiker/奈飞中文.json"
         },
         {
-            "key": "csp_XYQHiker_鸭奈飞影视",
-            "name": "鸭奈飞影视(HM2)",
+            "key": "XYQHiker_鸭奈飞影视",
+            "name": "鸭奈飞影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHiker",
@@ -1597,8 +1597,8 @@
             "ext": "./XYQHiker/鸭奈飞影视.json"
         },
         {
-            "key": "csp_XYQHiker_蓝光影院",
-            "name": "蓝光影院(HM2)",
+            "key": "XYQHiker_蓝光影院",
+            "name": "蓝光影院(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHiker",
@@ -1608,7 +1608,7 @@
             "ext": "./XYQHiker/蓝光影院.json"
         },
         {
-            "key": "csp_XYQHiker_影视工场",
+            "key": "XYQHiker_影视工场",
             "name": "影视工场(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1619,8 +1619,8 @@
             "ext": "./XYQHiker/影视工场.json"
         },
         {
-            "key": "csp_XYQHiker_影渣渣影视",
-            "name": "影渣渣影视✈️(HM2)",
+            "key": "XYQHiker_影渣渣影视",
+            "name": "影渣渣影视✈️(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_XYQHiker",
@@ -1630,7 +1630,7 @@
             "ext": "./XYQHiker/影渣渣影视.json"
         },
         {
-            "key": "csp_XYQHiker_电影盒子",
+            "key": "XYQHiker_电影盒子",
             "name": "电影盒子(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1641,7 +1641,7 @@
             "ext": "./XYQHiker/电影盒子.json"
         },
         {
-            "key": "csp_XYQHiker_疯狗影视",
+            "key": "XYQHiker_疯狗影视",
             "name": "疯狗影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1652,7 +1652,7 @@
             "ext": "./XYQHiker/疯狗影视.json"
         },
         {
-            "key": "csp_XYQHiker_爱看影院",
+            "key": "XYQHiker_爱看影院",
             "name": "爱看影院(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1663,7 +1663,7 @@
             "ext": "./XYQHiker/爱看影院.json"
         },
         {
-            "key": "csp_XYQHiker_子子影视",
+            "key": "XYQHiker_子子影视",
             "name": "子子影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1674,7 +1674,7 @@
             "ext": "./XYQHiker/子子影视.json"
         },
         {
-            "key": "csp_XYQHiker_素白白影视",
+            "key": "XYQHiker_素白白影视",
             "name": "素白白影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1685,7 +1685,7 @@
             "ext": "./XYQHiker/素白白影视.json"
         },
         {
-            "key": "csp_XYQHiker_可可影视",
+            "key": "XYQHiker_可可影视",
             "name": "可可影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
@@ -1696,7 +1696,7 @@
             "ext": "./XYQHiker/可可影视.json"
         },
         {
-            "key": "csp_XYQHiker_555影视",
+            "key": "XYQHiker_555影视",
             "name": "555影视(XYQH)",
             "type": 3,
             "jar": "./jar/XYQ.jar",
