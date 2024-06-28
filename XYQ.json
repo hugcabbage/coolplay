@@ -121,7 +121,7 @@
         },
         {
             "key": "csp_Zhaozy",
-            "name": "📀找资源(搜索)",
+            "name": "📀找资源|网盘搜索",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -131,7 +131,7 @@
         },
         {
             "key": "csp_AliPS",
-            "name": "📀喵狸盘搜(搜索)",
+            "name": "📀喵狸盘搜|网盘搜索",
             "type": 3,
             "api": "csp_AliPS",
             "searchable": 1,
@@ -141,7 +141,7 @@
         },
         {
             "key": "csp_Yisou",
-            "name": "📀易搜(搜索)",
+            "name": "📀易搜|网盘搜索",
             "type": 3,
             "api": "csp_Yisou",
             "searchable": 1,
@@ -151,7 +151,7 @@
         },
         {
             "key": "csp_Upyunso",
-            "name": "📀UP云搜(搜索)",
+            "name": "📀UP云搜|网盘搜索",
             "type": 3,
             "api": "csp_Upyunso",
             "searchable": 1,
@@ -161,7 +161,7 @@
         },
         {
             "key": "XYQHiker_影搜",
-            "name": "📀影搜(XYQH)",
+            "name": "📀影搜|网盘搜索",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -171,7 +171,7 @@
         },
         {
             "key": "XYQHikerAL_玩偶哥哥",
-            "name": "📀玩偶哥哥(优)(XYQHAL)",
+            "name": "📀玩偶哥哥",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -181,7 +181,7 @@
         },
         {
             "key": "XYQHikerAL_云盘资源",
-            "name": "📀云盘资源(搜索)(XYQHAL)",
+            "name": "📀云盘资源|网盘搜索",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -255,7 +255,7 @@
         },
         {
             "key": "XYQHikerAL_4KHDR",
-            "name": "🧲📀4KHDR(盘/磁)(XYQHAL)",
+            "name": "🧲📀4KHDR",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -265,7 +265,7 @@
         },
         {
             "key": "XYQHiker_电影港",
-            "name": "🧲电影港(XYQH)",
+            "name": "🧲电影港",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -275,7 +275,7 @@
         },
         {
             "key": "XYQHiker_BT天堂",
-            "name": "🧲✈️BT天堂(XYQH)",
+            "name": "🧲BT天堂",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -285,7 +285,7 @@
         },
         {
             "key": "XYQHiker_高清MP4",
-            "name": "🧲高清MP4(XYQH)",
+            "name": "🧲高清MP4",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -295,7 +295,7 @@
         },
         {
             "key": "XYQHiker_蚂蚁4K",
-            "name": "🧲蚂蚁4K(XYQH)",
+            "name": "🧲蚂蚁4K",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -305,7 +305,7 @@
         },
         {
             "key": "XYQHiker_磁力熊",
-            "name": "🧲磁力熊(XYQH)",
+            "name": "🧲磁力熊",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -315,7 +315,7 @@
         },
         {
             "key": "360_spider",
-            "name": "🐞360影视",
+            "name": "360影视",
             "type": 3,
             "api": "csp_SP360",
             "filterable": 1,
@@ -324,7 +324,7 @@
         },
         {
             "key": "csp_Kuaikan",
-            "name": "💡快看影视",
+            "name": "快看影视",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -333,7 +333,7 @@
         },
         {
             "key": "csp_Ddys",
-            "name": "🐞低端影视",
+            "name": "低端影视",
             "type": 3,
             "api": "csp_Ddys",
             "searchable": 1,
@@ -342,7 +342,7 @@
         },
         {
             "key": "csp_JianPian",
-            "name": "🔨荐片",
+            "name": "荐片",
             "type": 3,
             "api": "csp_JianPian",
             "searchable": 1,
@@ -352,7 +352,7 @@
         },
         {
             "key": "csp_Ikanbot",
-            "name": "👾Ikanbot",
+            "name": "iKanBot",
             "type": 3,
             "api": "csp_Ikanbot",
             "searchable": 1,
@@ -360,18 +360,18 @@
             "filterable": 1
         },
         {
-            "key": "XYQHiker_異世界動漫",
-            "name": "异世界动漫(XYQH)",
+            "key": "XYQHiker_异世界动漫",
+            "name": "异世界动漫",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/異世界動漫.json"
+            "ext": "./XYQHiker/异世界动漫.json"
         },
         {
             "key": "XYQHiker_有声小说吧",
-            "name": "有声小说吧(XYQH)",
+            "name": "有声小说吧",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -381,7 +381,7 @@
         },
         {
             "key": "XYQHiker_DJ呦呦音乐网",
-            "name": "DJ呦呦音乐网(XYQH)",
+            "name": "DJ呦呦音乐网",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -391,7 +391,7 @@
         },
         {
             "key": "XYQHiker_酷奇MV",
-            "name": "酷奇MV(XYQH)",
+            "name": "酷奇MV",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 0,
@@ -401,7 +401,7 @@
         },
         {
             "key": "XYQHiker_量子影视",
-            "name": "量子影视(XYQH)",
+            "name": "量子影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -411,7 +411,7 @@
         },
         {
             "key": "XYQHiker_红领巾影院",
-            "name": "红领巾影院(XYQH)",
+            "name": "红领巾影院",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -421,7 +421,7 @@
         },
         {
             "key": "XYQHiker_小猫咪",
-            "name": "小猫咪(XYQH)",
+            "name": "小猫咪",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -431,7 +431,7 @@
         },
         {
             "key": "XYQHiker_55影视",
-            "name": "55影视(XYQH)",
+            "name": "55影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -441,7 +441,7 @@
         },
         {
             "key": "XYQHiker_臭蛋蛋影视",
-            "name": "臭蛋蛋影视(XYQH)",
+            "name": "臭蛋蛋影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -451,7 +451,7 @@
         },
         {
             "key": "XYQHiker_奇趣影视",
-            "name": "奇趣影视(XYQH)",
+            "name": "奇趣影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -461,7 +461,7 @@
         },
         {
             "key": "XYQHiker_乐鱼影视",
-            "name": "乐鱼影视(XYQH)",
+            "name": "乐鱼影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -471,7 +471,7 @@
         },
         {
             "key": "XYQHiker_歪片星球",
-            "name": "歪片星球(XYQH)",
+            "name": "歪片星球",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -481,7 +481,7 @@
         },
         {
             "key": "XYQHiker_七新影视",
-            "name": "七新影视(XYQH)",
+            "name": "七新影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -491,7 +491,7 @@
         },
         {
             "key": "XYQHiker_看一看影视",
-            "name": "看一看影视(XYQH)",
+            "name": "看一看影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -501,7 +501,7 @@
         },
         {
             "key": "XYQHiker_秋霞电影",
-            "name": "秋霞电影(HM1)",
+            "name": "秋霞电影",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -511,7 +511,7 @@
         },
         {
             "key": "XYQHiker_在线之家",
-            "name": "在线之家(HM1)",
+            "name": "在线之家",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -521,7 +521,7 @@
         },
         {
             "key": "XYQHiker_奈飞中文",
-            "name": "奈飞中文(XYQH)",
+            "name": "奈飞中文",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -531,7 +531,7 @@
         },
         {
             "key": "XYQHiker_鸭奈飞影视",
-            "name": "鸭奈飞影视(XYQH)",
+            "name": "鸭奈飞影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -541,7 +541,7 @@
         },
         {
             "key": "XYQHiker_蓝光影院",
-            "name": "蓝光影院(XYQH)",
+            "name": "蓝光影院",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -551,7 +551,7 @@
         },
         {
             "key": "XYQHiker_影视工场",
-            "name": "影视工场(XYQH)",
+            "name": "影视工场",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -560,18 +560,8 @@
             "ext": "./XYQHiker/影视工场.json"
         },
         {
-            "key": "XYQHiker_影渣渣影视",
-            "name": "影渣渣影视✈️(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/影渣渣影视.json"
-        },
-        {
             "key": "XYQHiker_电影盒子",
-            "name": "电影盒子(XYQH)",
+            "name": "电影盒子",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -581,7 +571,7 @@
         },
         {
             "key": "XYQHiker_疯狗影视",
-            "name": "疯狗影视(XYQH)",
+            "name": "疯狗影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -591,7 +581,7 @@
         },
         {
             "key": "XYQHiker_爱看影院",
-            "name": "爱看影院(XYQH)",
+            "name": "爱看影院",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -601,7 +591,7 @@
         },
         {
             "key": "XYQHiker_子子影视",
-            "name": "子子影视(XYQH)",
+            "name": "子子影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -611,7 +601,7 @@
         },
         {
             "key": "XYQHiker_素白白影视",
-            "name": "素白白影视(XYQH)",
+            "name": "素白白影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -620,8 +610,18 @@
             "ext": "./XYQHiker/素白白影视.json"
         },
         {
+            "key": "XYQHiker_影渣渣影视",
+            "name": "影渣渣影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/影渣渣影视.json"
+        },
+        {
             "key": "XYQHiker_可可影视",
-            "name": "可可影视(XYQH)",
+            "name": "可可影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -631,7 +631,7 @@
         },
         {
             "key": "XYQHiker_555影视",
-            "name": "555影视(XYQH)",
+            "name": "555影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
