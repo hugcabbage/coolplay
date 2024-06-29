@@ -3,7 +3,7 @@
     "spider": "./jar/XYQ.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
     "lives": [
         {
-            "name": "JUNDIE",
+            "name": "junyu",
             "type": "0",
             "pass": true,
             "url": "http://home.jundie.top:81/ray/tvlive.txt",
@@ -39,6 +39,7 @@
             "name": "豆瓣",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/豆瓣.js"
         },
         {
@@ -46,6 +47,7 @@
             "name": "360影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/360影视.js"
         },
         {
@@ -53,6 +55,7 @@
             "name": "搜狗视频",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/搜狗视频.js"
         },
         {
@@ -60,6 +63,7 @@
             "name": "芒果TV",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/芒果TV.js"
         },
         {
@@ -67,6 +71,7 @@
             "name": "腾讯视频",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/腾讯视频.js"
         },
         {
@@ -74,6 +79,7 @@
             "name": "优酷",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/优酷.js"
         },
         {
@@ -81,6 +87,7 @@
             "name": "爱奇异",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/爱奇异.js"
         },
         {
@@ -88,6 +95,7 @@
             "name": "哔哩影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/哔哩影视.js"
         },
         {
@@ -95,6 +103,7 @@
             "name": "哔哩直播",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/哔哩直播.js"
         },
         {
@@ -102,6 +111,7 @@
             "name": "虎牙直播",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/虎牙直播.js"
         },
         {
@@ -109,6 +119,7 @@
             "name": "斗鱼直播",
             "type": 3,
             "api": "./lib/drpy2.min.js",
+            "searchable": 0,
             "ext": "./js/斗鱼直播.js"
         },
         {

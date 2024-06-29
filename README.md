@@ -24,10 +24,10 @@ https://gh-proxy.com/https://raw.githubusercontent.com/hugcabbage/coolplay/maste
 ```
 
 ### 配置说明
-- all.json 蜂蜜影视多线路配置源；
-- fan.json 饭太硬的jar包和配置，[饭太硬源](http://www.饭太硬.com/tv/)；
-- XYQ.json 香雅情的jar包和配置，[github更新](https://github.com/xyq254245/xyqonlinerule.git)，[123盘更新](https://www.123pan.com/s/alSeVv-lGO0A.html)；
-- pg.json pg源，[配置说明](#pg说明)，[telegram频道更新](https://t.me/s/PandaGroovePG)；
+- all.json 蜂蜜影视多线路配置源。
+- fan.json 饭太硬的jar包和配置，[原饭太硬源](http://www.饭太硬.com/tv/)。
+- XYQ.json 香雅情的jar包和配置，[github更新](https://github.com/xyq254245/xyqonlinerule.git)，[123盘更新](https://www.123pan.com/s/alSeVv-lGO0A.html)；js内容来自[hipy](https://github.com/hjdhnx/hipy-server.git)。
+- pg.json pg源，[配置说明](#pg说明)，[telegram频道更新](https://t.me/s/PandaGroovePG)。
 - cool.json XYQ+PG。
 
 ### pg说明
