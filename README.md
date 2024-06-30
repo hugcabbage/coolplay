@@ -18,9 +18,14 @@ https://framagit.org/hugcabbage/coolplay/-/raw/master/all.json
 ```text
 https://gitdl.cn/https://raw.githubusercontent.com/hugcabbage/coolplay/master/all.json
 ```
-- github2
 ```text
-https://gh-proxy.com/https://raw.githubusercontent.com/hugcabbage/coolplay/master/all.json
+https://hub.gitmirror.com/https://raw.githubusercontent.com/hugcabbage/coolplay/master/all.json
+```
+```text
+https://gh.con.sh/https://raw.githubusercontent.com/hugcabbage/coolplay/master/all.json
+```
+```text
+https://cdn.jsdelivr.net/gh/hugcabbage/coolplay@master/all.json
 ```
 
 ### 配置说明
