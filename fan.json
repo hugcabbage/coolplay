@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fan.jar;md5;39536019b1427f62b535f028d161d43a",
+    "spider": "./jar/fan.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -40,7 +40,7 @@
             "key": "短剧",
             "name": "🌈上头|短剧",
             "type": 3,
-            "api": "csp_Djuu",
+            "api": "csp_Djtt",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -256,7 +256,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://www.xb6v.com/"
+            "ext": "https://www.xb6v.com/"
         },
         {
             "key": "Dm84",
@@ -619,15 +619,6 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
-        },
-        {
-            "key": "Nbys",
-            "name": "🛫泥巴|飞",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         }
     ],
     "doh": [
