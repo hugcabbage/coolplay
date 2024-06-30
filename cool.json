@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;90cf8fa4799b16213ef02d14b8f18102",
+    "spider": "./jar/pg.jar;md5;2d720579dec380af301010354f50408c",
     "lives": [
         {
             "name": "junyu",
