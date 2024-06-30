@@ -1,8 +1,8 @@
 {
     "urls": [
         {
-            "url": "./fan.json",
-            "name": "饭太硬"
+            "url": "./cool.json",
+            "name": "XYQ+PG"
         },
         {
             "url": "./XYQ.json",
@@ -11,10 +11,6 @@
         {
             "url": "./pg.json",
             "name": "PG"
-        },
-        {
-            "url": "./cool.json",
-            "name": "XYQ+PG"
         }
     ]
 }
