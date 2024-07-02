@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;495ef91ef467e90c21222e93aa9893f7",
+    "spider": "./jar/pg.jar;md5;3ee7397001c72297f6644cc08d8260de",
     "lives": [
         {
             "name": "junyu",
@@ -809,18 +809,8 @@
             "ext": "null$$$1"
         },
         {
-            "key": "泥巴",
-            "name": "泥巴|海外",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "0$$$proxy"
-        },
-        {
             "key": "欧乐影院",
-            "name": "欧乐影院|在线播",
+            "name": "欧乐影院|海外",
             "type": 3,
             "api": "csp_Olevod",
             "quickSearch": 1,
