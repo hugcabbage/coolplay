@@ -12,20 +12,20 @@
 ### 多线路源
 - framagit
 ```text
-https://framagit.org/hugcabbage/coolplay/-/raw/master/all.json
+https://framagit.org/hugcabbage/coolplay/-/raw/main/all.json
 ```
 - github
 ```text
-https://gitdl.cn/https://raw.githubusercontent.com/hugcabbage/coolplay/master/all.json
+https://gitdl.cn/https://raw.githubusercontent.com/hugcabbage/coolplay/main/all.json
 ```
 ```text
-https://hub.gitmirror.com/https://raw.githubusercontent.com/hugcabbage/coolplay/master/all.json
+https://hub.gitmirror.com/https://raw.githubusercontent.com/hugcabbage/coolplay/main/all.json
 ```
 ```text
-https://gh.con.sh/https://raw.githubusercontent.com/hugcabbage/coolplay/master/all.json
+https://gh.con.sh/https://raw.githubusercontent.com/hugcabbage/coolplay/main/all.json
 ```
 ```text
-https://cdn.jsdelivr.net/gh/hugcabbage/coolplay@master/all.json
+https://cdn.jsdelivr.net/gh/hugcabbage/coolplay@main/all.json
 ```
 
 ### 配置说明
