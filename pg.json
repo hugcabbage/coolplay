@@ -855,7 +855,7 @@
             "ext": "http://app.kzjtv.com$$$null$$$1"
         },
         {
-            "key": "賤賤",
+            "key": "贱贱",
             "name": "荐片",
             "type": 3,
             "api": "csp_Jianpian",
@@ -1048,7 +1048,7 @@
             "ext": "proxy"
         },
         {
-            "key": "獨播",
+            "key": "独播",
             "name": "独播|海外",
             "type": 3,
             "api": "csp_XPathMacFilter",
@@ -1120,7 +1120,7 @@
             "changeable": 1
         },
         {
-            "key": "暴風",
+            "key": "暴风",
             "name": "暴风",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
@@ -1198,7 +1198,7 @@
             ]
         },
         {
-            "key": "櫻花",
+            "key": "樱花",
             "name": "樱花",
             "type": 3,
             "api": "csp_Ying",
@@ -1214,7 +1214,7 @@
             "changeable": 0
         },
         {
-            "key": "異界",
+            "key": "异界",
             "name": "异界",
             "type": 3,
             "api": "csp_Ysj",
@@ -1222,7 +1222,7 @@
             "changeable": 0
         },
         {
-            "key": "愛看",
+            "key": "爱看",
             "name": "爱看",
             "type": 3,
             "api": "./js/ikanbot_open.js",
@@ -1291,7 +1291,7 @@
             "ext": "file://TV/tokenm.json"
         },
         {
-            "key": "應用商店",
+            "key": "应用商店",
             "name": "应用商店",
             "type": 3,
             "api": "csp_Market",

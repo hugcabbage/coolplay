@@ -736,15 +736,6 @@
             "changeable": 0
         },
         {
-            "key": "短剧",
-            "name": "短剧",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 0,
-            "changeable": 1,
-            "ext": "https://www.duanjutv.icu"
-        },
-        {
             "key": "Ikanbot",
             "name": "爱看机器人",
             "type": 3,
@@ -764,7 +755,7 @@
             "changeable": 0
         },
         {
-            "key": "賤賤",
+            "key": "贱贱",
             "name": "荐片",
             "type": 3,
             "api": "csp_Jianpian",
@@ -843,7 +834,7 @@
             "ext": "http://app.kzjtv.com$$$null$$$1"
         },
         {
-            "key": "獨播",
+            "key": "独播",
             "name": "独播|海外",
             "type": 3,
             "api": "csp_XPathMacFilter",
@@ -852,7 +843,7 @@
             "ext": "./lib/duboku.json$$$proxy"
         },
         {
-            "key": "櫻花",
+            "key": "樱花",
             "name": "樱花",
             "type": 3,
             "api": "csp_Ying",
@@ -875,7 +866,7 @@
             "changeable": 0
         },
         {
-            "key": "異界",
+            "key": "异界",
             "name": "异界",
             "type": 3,
             "api": "csp_Ysj",
@@ -953,7 +944,7 @@
             "changeable": 1
         },
         {
-            "key": "暴風",
+            "key": "暴风",
             "name": "暴风",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
@@ -1003,16 +994,6 @@
                 "纪录片",
                 "经典片"
             ]
-        },
-        {
-            "key": "ikun",
-            "name": "ikun",
-            "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "索尼",
@@ -1377,17 +1358,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_JianPian",
-            "name": "荐片",
-            "type": 3,
-            "jar": "./jar/XYQ.jar",
-            "api": "csp_JianPian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://112.124.0.131:20000"
-        },
-        {
             "key": "csp_Kuaikan",
             "name": "快看影视",
             "type": 3,
@@ -1716,16 +1686,6 @@
             "ext": "./XYQHiker/555影视.json"
         },
         {
-            "key": "csp_Yj1211",
-            "name": "JustLive",
-            "type": 3,
-            "jar": "./jar/XYQ.jar",
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "影图资源",
             "name": "影图资源",
             "type": 1,
@@ -1757,7 +1717,7 @@
             "ext": "file://TV/tokenm.json"
         },
         {
-            "key": "應用商店",
+            "key": "应用商店",
             "name": "应用商店",
             "type": 3,
             "api": "csp_Market",
