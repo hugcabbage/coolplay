@@ -51,22 +51,6 @@
             "ext": "./js/360影视.js"
         },
         {
-            "key": "drpy_搜狗视频",
-            "name": "搜狗视频",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/搜狗视频.js"
-        },
-        {
-            "key": "drpy_芒果TV",
-            "name": "芒果TV",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/芒果TV.js"
-        },
-        {
             "key": "drpy_腾讯视频",
             "name": "腾讯视频",
             "type": 3,
@@ -91,12 +75,28 @@
             "ext": "./js/爱奇异.js"
         },
         {
+            "key": "drpy_芒果TV",
+            "name": "芒果TV",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/芒果TV.js"
+        },
+        {
             "key": "drpy_哔哩影视",
             "name": "哔哩影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 0,
             "ext": "./js/哔哩影视.js"
+        },
+        {
+            "key": "drpy_搜狗视频",
+            "name": "搜狗视频",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/搜狗视频.js"
         },
         {
             "key": "drpy_哔哩直播",
@@ -323,15 +323,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/磁力熊.json"
-        },
-        {
-            "key": "360_spider",
-            "name": "360影视",
-            "type": 3,
-            "api": "csp_SP360",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "csp_Kuaikan",

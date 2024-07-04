@@ -119,22 +119,6 @@
             "ext": "./js/360影视.js"
         },
         {
-            "key": "drpy_搜狗视频",
-            "name": "搜狗视频",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/搜狗视频.js"
-        },
-        {
-            "key": "drpy_芒果TV",
-            "name": "芒果TV",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "ext": "./js/芒果TV.js"
-        },
-        {
             "key": "drpy_腾讯视频",
             "name": "腾讯视频",
             "type": 3,
@@ -159,12 +143,28 @@
             "ext": "./js/爱奇异.js"
         },
         {
+            "key": "drpy_芒果TV",
+            "name": "芒果TV",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/芒果TV.js"
+        },
+        {
             "key": "drpy_哔哩影视",
             "name": "哔哩影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 0,
             "ext": "./js/哔哩影视.js"
+        },
+        {
+            "key": "drpy_搜狗视频",
+            "name": "搜狗视频",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "ext": "./js/搜狗视频.js"
         },
         {
             "key": "drpy_哔哩直播",
@@ -715,19 +715,6 @@
             }
         },
         {
-            "key": "bili",
-            "name": "B站|Bili[jar]",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-                "cookie": ""
-            }
-        },
-        {
             "key": "巴士",
             "name": "巴士",
             "type": 3,
@@ -862,14 +849,6 @@
             "name": "音悦台",
             "type": 3,
             "api": "csp_Yinyuetai",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "异界",
-            "name": "异界",
-            "type": 3,
-            "api": "csp_Ysj",
             "searchable": 1,
             "changeable": 0
         },
@@ -1201,16 +1180,6 @@
             "jar": "./jar/XBPQ.jar"
         },
         {
-            "key": "csp_KubaCL",
-            "name": "🧲酷吧电影",
-            "type": 3,
-            "jar": "./jar/XYQ.jar",
-            "api": "csp_KubaCL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_MeijuMi",
             "name": "🧲美剧迷",
             "type": 3,
@@ -1252,16 +1221,6 @@
             "ext": "https://www.xb6v.com"
         },
         {
-            "key": "csp_SeedHub",
-            "name": "🧲SeedHub",
-            "type": 3,
-            "jar": "./jar/XYQ.jar",
-            "api": "csp_SeedHub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "XYQHiker_电影港",
             "name": "🧲电影港",
             "type": 3,
@@ -1271,17 +1230,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/电影港磁力.json"
-        },
-        {
-            "key": "XYQHiker_BT天堂",
-            "name": "🧲BT天堂",
-            "type": 3,
-            "jar": "./jar/XYQ.jar",
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/BT天堂.json"
         },
         {
             "key": "XYQHiker_高清MP4",
@@ -1317,42 +1265,11 @@
             "ext": "./XYQHiker/磁力熊.json"
         },
         {
-            "key": "XYQHikerAL_4KHDR",
-            "name": "🧲📀4KHDR",
-            "type": 3,
-            "jar": "./jar/XYQ.jar",
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/4KHDR.json"
-        },
-        {
-            "key": "csp_Xunlei8",
-            "name": "🧲迅雷吧",
-            "type": 3,
-            "jar": "./jar/XYQ.jar",
-            "api": "csp_Xunlei8",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Ddys",
             "name": "低端影视",
             "type": 3,
             "jar": "./jar/XYQ.jar",
             "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Ikanbot",
-            "name": "iKanBot",
-            "type": 3,
-            "jar": "./jar/XYQ.jar",
-            "api": "csp_Ikanbot",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1366,16 +1283,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "360_spider",
-            "name": "360影视",
-            "type": 3,
-            "jar": "./jar/XYQ.jar",
-            "api": "csp_SP360",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "XYQHiker_异世界动漫",
