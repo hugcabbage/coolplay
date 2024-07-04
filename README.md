@@ -28,6 +28,25 @@ https://gh.con.sh/https://raw.githubusercontent.com/hugcabbage/coolplay/main/all
 https://cdn.jsdelivr.net/gh/hugcabbage/coolplay@main/all.json
 ```
 
+### cool源
+- framagit
+```text
+https://framagit.org/hugcabbage/coolplay/-/raw/main/cool.json
+```
+- github
+```text
+https://gitdl.cn/https://raw.githubusercontent.com/hugcabbage/coolplay/main/cool.json
+```
+```text
+https://hub.gitmirror.com/https://raw.githubusercontent.com/hugcabbage/coolplay/main/cool.json
+```
+```text
+https://gh.con.sh/https://raw.githubusercontent.com/hugcabbage/coolplay/main/cool.json
+```
+```text
+https://cdn.jsdelivr.net/gh/hugcabbage/coolplay@main/cool.json
+```
+
 ### 配置说明
 - all.json 蜂蜜影视多线路配置源。
 - XYQ.json 香雅情的jar包和配置，[github更新](https://github.com/xyq254245/xyqonlinerule.git)，[123盘更新](https://www.123pan.com/s/alSeVv-lGO0A.html)；js内容来自[hipy](https://github.com/hjdhnx/hipy-server.git)。
