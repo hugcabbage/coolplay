@@ -651,18 +651,42 @@
             "filterable": 1
         },
         {
-            "key": "影图资源",
-            "name": "影图资源",
+            "key": "量子资源",
+            "name": "🪁量子资源",
             "type": 1,
-            "api": "https://cj.vodimg.top/api.php/provide/vod/",
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "非凡资源",
+            "name": "🪁非凡资源",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "HG影视",
+            "name": "🪁HG影视",
+            "type": 1,
+            "api": "https://hong.hgyx.vip/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1
         },
         {
             "key": "iKun资源",
-            "name": "iKun资源",
+            "name": "🪁iKun资源",
             "type": 0,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "黑木耳资源",
+            "name": "🪁黑木耳资源",
+            "type": 1,
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -670,20 +694,13 @@
             "key": "csp_LocalFile",
             "name": "本地视频",
             "type": 3,
-            "api": "csp_LocalFile",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "type_flag": 0
+            "api": "csp_LocalFile"
         },
         {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
             "api": "csp_PushAgent",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
             "ext": "file://TV/ali_token.txt"
         }
     ],
