@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;3815819b82a6029d44e758c91ab13de6",
+    "spider": "./jar/pg.jar;md5;d89d3a77a06f18893a763fdc2224669f",
     "sites": [
         {
             "key": "Youtube",
@@ -249,7 +249,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "file://TV/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
+            "ext": "file://TV/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -275,7 +275,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "file://TV/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "file://TV/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Wobg",
@@ -341,7 +341,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "file://TV/tokenm.json$$$https://www.80yy3.com/$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "file://TV/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "团长资源",
