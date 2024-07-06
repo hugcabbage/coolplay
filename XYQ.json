@@ -132,7 +132,7 @@
         },
         {
             "key": "csp_Zhaozy",
-            "name": "📀找资源|网盘搜索",
+            "name": "找资源|网盘搜索",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -142,7 +142,7 @@
         },
         {
             "key": "csp_AliPS",
-            "name": "📀喵狸盘搜|网盘搜索",
+            "name": "喵狸盘搜|网盘搜索",
             "type": 3,
             "api": "csp_AliPS",
             "searchable": 1,
@@ -152,7 +152,7 @@
         },
         {
             "key": "csp_Yisou",
-            "name": "📀易搜|网盘搜索",
+            "name": "易搜|网盘搜索",
             "type": 3,
             "api": "csp_Yisou",
             "searchable": 1,
@@ -162,7 +162,7 @@
         },
         {
             "key": "csp_Upyunso",
-            "name": "📀UP云搜|网盘搜索",
+            "name": "UP云搜|网盘搜索",
             "type": 3,
             "api": "csp_Upyunso",
             "searchable": 1,
@@ -172,7 +172,7 @@
         },
         {
             "key": "XYQHiker_影搜",
-            "name": "📀影搜|网盘搜索",
+            "name": "影搜|网盘搜索",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -182,7 +182,7 @@
         },
         {
             "key": "XYQHikerAL_玩偶哥哥",
-            "name": "📀玩偶哥哥",
+            "name": "玩偶哥哥|网盘",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -192,7 +192,7 @@
         },
         {
             "key": "XYQHikerAL_云盘资源",
-            "name": "📀云盘资源|网盘搜索",
+            "name": "云盘资源|网盘搜索",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -202,7 +202,7 @@
         },
         {
             "key": "csp_Mp4Mov",
-            "name": "🧲Mp4电影",
+            "name": "Mp4电影|磁力",
             "type": 3,
             "api": "csp_Mp4Mov",
             "searchable": 1,
@@ -211,7 +211,7 @@
         },
         {
             "key": "csp_New6v",
-            "name": "🧲新6V",
+            "name": "新6V|磁力",
             "type": 3,
             "api": "csp_New6v",
             "searchable": 1,
@@ -221,7 +221,7 @@
         },
         {
             "key": "csp_SeedHub",
-            "name": "🧲SeedHub",
+            "name": "SeedHub|磁力",
             "type": 3,
             "api": "csp_SeedHub",
             "searchable": 1,
@@ -230,7 +230,7 @@
         },
         {
             "key": "csp_KubaCL",
-            "name": "🧲酷吧电影",
+            "name": "酷吧电影|磁力",
             "type": 3,
             "api": "csp_KubaCL",
             "searchable": 1,
@@ -239,7 +239,7 @@
         },
         {
             "key": "csp_MeijuTT",
-            "name": "🧲美剧天堂",
+            "name": "美剧天堂|磁力",
             "type": 3,
             "api": "csp_MeijuTT",
             "searchable": 1,
@@ -248,7 +248,7 @@
         },
         {
             "key": "csp_MeijuMi",
-            "name": "🧲美剧迷",
+            "name": "美剧迷|磁力",
             "type": 3,
             "api": "csp_MeijuMi",
             "searchable": 1,
@@ -257,7 +257,7 @@
         },
         {
             "key": "csp_Xunlei8",
-            "name": "🧲迅雷吧",
+            "name": "迅雷吧|磁力",
             "type": 3,
             "api": "csp_Xunlei8",
             "searchable": 1,
@@ -266,7 +266,7 @@
         },
         {
             "key": "XYQHikerAL_4KHDR",
-            "name": "🧲📀4KHDR",
+            "name": "4KHDR|磁力&网盘",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -276,7 +276,7 @@
         },
         {
             "key": "XYQHiker_电影港",
-            "name": "🧲电影港",
+            "name": "电影港|磁力",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -286,7 +286,7 @@
         },
         {
             "key": "XYQHiker_BT天堂",
-            "name": "🧲BT天堂",
+            "name": "BT天堂|磁力",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -296,7 +296,7 @@
         },
         {
             "key": "XYQHiker_高清MP4",
-            "name": "🧲高清MP4",
+            "name": "高清MP4|磁力",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -306,7 +306,7 @@
         },
         {
             "key": "XYQHiker_蚂蚁4K",
-            "name": "🧲蚂蚁4K",
+            "name": "蚂蚁4K|磁力",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -316,7 +316,7 @@
         },
         {
             "key": "XYQHiker_磁力熊",
-            "name": "🧲磁力熊",
+            "name": "磁力熊|磁力",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -652,7 +652,7 @@
         },
         {
             "key": "量子资源",
-            "name": "🪁量子资源",
+            "name": "量子资源",
             "type": 1,
             "api": "https://cj.lzcaiji.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -660,15 +660,15 @@
         },
         {
             "key": "非凡资源",
-            "name": "🪁非凡资源",
+            "name": "非凡资源",
             "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+            "api": "https://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1
         },
         {
             "key": "HG影视",
-            "name": "🪁HG影视",
+            "name": "HG影视",
             "type": 1,
             "api": "https://hong.hgyx.vip/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -676,7 +676,7 @@
         },
         {
             "key": "iKun资源",
-            "name": "🪁iKun资源",
+            "name": "iKun资源",
             "type": 0,
             "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
             "searchable": 1,
@@ -684,7 +684,7 @@
         },
         {
             "key": "黑木耳资源",
-            "name": "🪁黑木耳资源",
+            "name": "黑木耳资源",
             "type": 1,
             "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
             "searchable": 1,

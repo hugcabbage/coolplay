@@ -163,7 +163,7 @@
         },
         {
             "key": "直播转点播",
-            "name": "🐼️|电视|直播",
+            "name": "电视|直播",
             "type": 3,
             "searchable": 0,
             "api": "./lib/live2vod.js",
@@ -171,7 +171,7 @@
         },
         {
             "key": "FirstAid",
-            "name": "🚑急救知识",
+            "name": "急救知识",
             "type": 3,
             "api": "csp_FirstAid",
             "searchable": 0,
@@ -751,7 +751,7 @@
         },
         {
             "key": "小白",
-            "name": "🧲4小白磁力🧲|XBPQ",
+            "name": "4小白磁力|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
@@ -771,7 +771,7 @@
         },
         {
             "key": "BT天堂",
-            "name": "🌈BT天堂|磁力|XBPQ",
+            "name": "BT天堂|磁力|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -782,7 +782,7 @@
         },
         {
             "key": "布谷tv",
-            "name": "🐦布谷|4K磁力|XBPQ",
+            "name": "布谷|4K磁力|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -803,7 +803,7 @@
         },
         {
             "key": "haokongbu",
-            "name": "👿好恐怖|磁力|XBPQ",
+            "name": "好恐怖|磁力|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
