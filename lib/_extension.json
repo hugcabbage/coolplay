@@ -1,0 +1,7 @@
+{
+    "wgcf_xray_url": "./xray.gz",
+    "wgcf_geoip_url": "./geoip.dat.gz",
+    "libxl_url": "./libxl_thunder_sdk.so",
+    "singbox_url": "./sing-box.gz",
+    "singbox_clash2singbox_url": "./clash2singbox.gz"
+}
