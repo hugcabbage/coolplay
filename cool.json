@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;13c8c3c40ca71c7bb917c72767a9c736",
+    "spider": "./jar/pg.jar;md5;5c92e8861131ab2b7fe84d4b0e617c5e",
     "lives": [
         {
             "name": "junyu",
@@ -339,7 +339,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$https://duopan.fun/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/_extension.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Wogg",
