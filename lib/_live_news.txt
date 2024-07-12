@@ -6,23 +6,23 @@
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
 YouTube,#genre#
-凤凰卫视资讯台,https://www.youtube.com/watch?v=HFib76ySpbU
-中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
-TVBS新闻台,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
-中视新闻,https://www.youtube.com/watch?v=rO9tl-LyaZo
-华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
-民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
-三立新闻,https://www.youtube.com/watch?v=oZdzzvxTfUY
-东森新闻,https://www.youtube.com/watch?v=2dfAzcDf8Zg
-公视新闻,https://www.youtube.com/watch?v=quwqlazU-c8
-镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
-KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
-CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
-NBC News NOW,https://www.youtube.com/watch?v=oGDHdE5EaAo
-YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
-ABC News,https://www.youtube.com/watch?v=gN0PZCe-kwQ
+凤凰卫视资讯台,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=HFib76ySpbU
+中天新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天2台,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=WPfPjbOLNfE
+TVBS新闻台,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS NEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+台视新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=xL0ch83RAK8
+中视新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=rO9tl-LyaZo
+华视新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+寰宇新闻台,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=6IquAgfvYmc
+民视新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立iNEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=oZdzzvxTfUY
+东森新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=2dfAzcDf8Zg
+公视新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=quwqlazU-c8
+镜新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+KBS KOREA,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=OxQQsIvJTTU
+CNA,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=XWq5kBlakcQ
+NBC News NOW,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=oGDHdE5EaAo
+YTN,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=FJfwehhzIhw
+ABC News,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=gN0PZCe-kwQ
