@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;7bab923527380fb67bc1d38d72b229ae",
+    "spider": "./jar/pg.jar;md5;89f18b4f0f44c1fe7c925631594e3d7a",
     "sites": [
         {
             "key": "Youtube",
@@ -9,7 +9,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "timeout": 60,
+            "timeout": 120,
             "ext": {
                 "token": "./lib/_extension.json",
                 "json": "./lib/youtube.json",
