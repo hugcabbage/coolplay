@@ -3,7 +3,7 @@
     "spider": "./jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b",
     "lives": [
         {
-            "name": "junyu",
+            "name": "俊于",
             "type": "0",
             "pass": true,
             "url": "http://home.jundie.top:81/ray/tvlive.txt",
@@ -11,7 +11,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "fanmingming",
+            "name": "范明明IPv6",
             "type": "0",
             "pass": true,
             "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
@@ -127,6 +127,7 @@
             "name": "电视直播",
             "type": 3,
             "searchable": 0,
+            "changeable": 0,
             "api": "./lib/live2vod.js",
             "ext": "./lib/_live2vod.json"
         },

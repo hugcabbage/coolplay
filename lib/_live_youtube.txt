@@ -1,11 +1,4 @@
-港澳台,#genre#
-凤凰卫视中文台,http://103.95.24.37:880/fhws.m3u8
-凤凰卫视资讯台,http://103.95.24.37:880/fhzx.m3u8
-凤凰卫视资讯台,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-凤凰卫视资讯台,http://www.372583307.top:4022/udp/233.50.200.192:5140
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-
-YouTube,#genre#
+新闻,#genre#
 凤凰卫视资讯台,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=HFib76ySpbU
 中天新闻,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天2台,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=WPfPjbOLNfE

@@ -8,8 +8,12 @@
         "url": "https://live.fanmingming.com/tv/m3u/index.m3u"
     },
     {
-        "name": "新闻台",
-        "url": "./_live_news.txt"
+        "name": "YouTube",
+        "url": "./_live_youtube.txt"
+    },
+    {
+        "name": "TVB",
+        "url": "https://www.dussl.icu/Tvb_dussl.m3u"
     },
     {
         "name": "俊于",
