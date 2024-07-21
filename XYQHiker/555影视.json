@@ -64,7 +64,7 @@
     "演员详情": ".module-info-content&&.module-info-item:contains(主演)&&.module-info-item-content&&Text",
     "简介详情": ".module-info-content&&.module-info-introduction-content&&Text",
     "线路列表数组规则": "body&&.module-tab-items-box&&.module-tab-item",
-    "线路标题": "span&&Text",
+    "线路标题": "span&&Text+'('+small&&Text+'集)'",
     "播放列表数组规则": "body&&.module-play-list-content",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "是",
