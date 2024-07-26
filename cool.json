@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;0ea36a5b84f1e1ca2d80e6843303a1fb",
+    "spider": "./jar/pg.jar;md5;d0e9120903197c33d112c711af331a5f",
     "lives": [
         {
             "name": "俊于",
@@ -245,7 +245,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$proxy$$$1"
+            "ext": "./lib/_extension.json$$$noproxy$$$1"
         },
         {
             "key": "Libvio",
