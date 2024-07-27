@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;bcb472152d0e3638e9397d8e195ef4fa",
+    "spider": "./jar/pg.jar;md5;63cf8bce4bc7117378c14bc962e7a161",
     "sites": [
         {
             "key": "Youtube",
@@ -122,12 +122,12 @@
             "name": "115云盘分享",
             "type": 3,
             "api": "csp_P115Share",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$./lib/115share.txt",
+            "ext": "./lib/_extension.json$$$./lib/115share.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
