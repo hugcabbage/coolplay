@@ -16,6 +16,10 @@
         "url": "https://www.dussl.icu/Tvb_dussl.m3u"
     },
     {
+        "name": "4GTV",
+        "url": "https://www.dussl.icu/4gtv_dussl.m3u"
+    },
+    {
         "name": "俊于",
         "url": "http://home.jundie.top:81/Cat/tv/live.txt"
     }
