@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;3500d70d126ce8a3d718572fbddf0278",
+    "spider": "./jar/pg.jar;md5;62e4b10c42d4e0690d4d42336d6eb050",
     "sites": [
         {
             "key": "Youtube",
@@ -906,6 +906,14 @@
             "changeable": 1,
             "ext": "./lib/jianpian.json$$$1",
             "timeout": 60
+        },
+        {
+            "key": "黑木耳",
+            "name": "黑木耳",
+            "type": 1,
+            "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
         },
         {
             "key": "索尼资源",
