@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;0f45caa80acac1ce3aa99006faf0d90b",
+    "spider": "./jar/pg.jar;md5;53812f51e215a20bad8f89961c157f2f",
     "sites": [
         {
             "key": "Youtube",
@@ -106,7 +106,7 @@
             "name": "夸克网盘分享",
             "type": 3,
             "api": "csp_QuarkShare",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "filterable": 0,
@@ -134,11 +134,27 @@
             }
         },
         {
+            "key": "UCShare",
+            "name": "UC云盘分享",
+            "type": 3,
+            "api": "csp_UCShare",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/_extension.json$$$./lib/ucshare.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
             "key": "ThunderShare",
             "name": "迅雷云盘分享",
             "type": 3,
             "api": "csp_ThunderShare",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "filterable": 0,
