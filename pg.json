@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;8c737514ec23faff7ec2d262cfb0e965",
+    "spider": "./jar/pg.jar;md5;3535d634369c5e59764532b83a9e0a11",
     "sites": [
         {
             "key": "豆瓣",
@@ -270,7 +270,11 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$null$$$noproxy$$$1"
+            "ext": "./lib/_extension.json$$$null$$$noproxy$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
         },
         {
             "key": "Xpanpan",
