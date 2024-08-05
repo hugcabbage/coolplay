@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;0a458577c31120cbd35569ed8cfa1214",
+    "spider": "./jar/pg.jar;md5;33097098fff5edff8cf278af2245ed6d",
     "lives": [
         {
             "name": "俊于",
@@ -369,7 +369,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/_extension.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
         },
         {
             "key": "新6V",
