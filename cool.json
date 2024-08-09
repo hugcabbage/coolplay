@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;a54c87fcdc8453e2b89cdec44b858456",
+    "spider": "./jar/pg.jar;md5;39469d06051ff8a5e1bb138d10171efd",
     "lives": [
         {
             "name": "俊于",
@@ -336,7 +336,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/_extension.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json$$$WOBG"
         },
         {
             "key": "yydsys",
@@ -347,7 +347,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/_extension.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"
         },
         {
             "key": "蜡笔网盘",
@@ -358,7 +358,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/_extension.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
         },
         {
             "key": "Wogg",
@@ -902,17 +902,6 @@
             "api": "csp_SeedHub",
             "changeable": 1,
             "timeout": 60
-        },
-        {
-            "key": "Wo4k",
-            "name": "玩偶4K|磁力",
-            "type": 3,
-            "api": "csp_Wo4k",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/_extension.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Xunlei8",
