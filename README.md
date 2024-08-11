@@ -81,6 +81,8 @@ https://cdn.jsdelivr.net/gh/hugcabbage/coolplay@main/cool.json
 
 提示3：zip包内预置的aliproxy从jar内的assets改为zip内的aliproxy.gz，可以减少jar包对播放器内存的消耗，但因为aliproxy.gz的释出需要使用到壳上的proxy功能，所以如果播放设备安装了多个类似的播放器，可能导致aliproxy释放出错或运行出错。不要尝试在同一个播放设备上运行多个播放壳，也不要尝试把本jar加载到同一个播放设备的不同播放壳上。
 
+提示4：因为32bit的aliproxy在加速大文件时cpu负载很高，因此默认使用64bit的aliproxy来加速播放，通常较新的盒子或电视都可以无需任何修改直接运行。如果你的设备无法观看网盘原画，那么在排除了使用非原版“影视”“OK影视”“EasyBox”的基础上，可以尝试把tokenm.json中的"aliproxy_url"设置为"aliproxy_url":"./aliproxy.32.gz"这样就可以使用32bit的aliproxy来加速播放，虽然效率较低，但至少能播。
+
 可以透过配置中的“网盘及弹幕配置”的视频源来实现快捷方便的获取32位token及opentoken的功能。
 
 复制lib/tokentemplate.json成为lib/tokenm.json，并填写必要的内容
