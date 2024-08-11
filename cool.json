@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;3a325c9f62589a0289e433cdb0d0503c",
+    "spider": "./jar/pg.jar;md5;ecb7cc401aab84804deb971f2a122641",
     "lives": [
         {
             "name": "俊于",
