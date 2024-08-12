@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;ecb7cc401aab84804deb971f2a122641",
+    "spider": "./jar/pg.jar;md5;9856283a662ef1a57959dd9f31ad5fb9",
     "lives": [
         {
             "name": "俊于",
@@ -753,80 +753,6 @@
             "changeable": 0
         },
         {
-            "key": "XBPQ_电影先生",
-            "name": "电影先生|XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
-                "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-                "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
-                "搜索数组": "<div class=\"module-item-pic\">&&</div>",
-                "图片": "src=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索副标题": ">&&</a>",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:<span></small>共]+集",
-                "播放数组": "<div class=\"scroll-content\">&&</div>",
-                "播放标题": "<span>&&</span>",
-                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
-            }
-        },
-        {
-            "key": "XBPQ_麻衣影院",
-            "name": "麻衣影院|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"
-            }
-        },
-        {
-            "key": "XBPQ_黑狐影院",
-            "name": "黑狐影院|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "站名": "黑狐影院",
-                "主页url": "http://fagmn.com",
-                "数组": "class=\"stui-vodlist__box\"&&</a",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-                "过滤词": "/hls/#php",
-                "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-                "搜索模式": "1",
-                "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索后缀": "/view/",
-                "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-                "线路标题": ">&&<",
-                "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-                "状态": "地区：&&</p>",
-                "导演": "导演：&&</p>",
-                "主演": "主演：&&</p>",
-                "简介": "简介：&&</div>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "播放链接": "href=\"&&\"",
-                "免嗅": "0",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-                "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-            }
-        },
-        {
             "key": "drpy_js_人人影视",
             "name": "人人影视[js]|搜",
             "type": 3,
@@ -910,92 +836,6 @@
             "api": "csp_Xunlei8",
             "changeable": 1,
             "timeout": 60
-        },
-        {
-            "key": "BT天堂",
-            "name": "BT天堂|磁力|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/bttt.json",
-            "jar": "./jar/XBPQ.jar"
-        },
-        {
-            "key": "haokongbu",
-            "name": "好恐怖|磁力|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://m.haokongbu.top/",
-                "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
-                "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
-                "副标题": "class=\"typeset\"&&</i>",
-                "起始页": 2,
-                "倒序": 1,
-                "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
-                "播放列表": "<ul>&&</div>[包含:magnet]"
-            },
-            "jar": "./jar/XBPQ.jar"
-        },
-        {
-            "key": "小白",
-            "name": "4小白磁力|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "主页url": "https://www.xbw20.com/",
-                "编码": "gb2312",
-                "图片": "data-src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "class=\"time\">&&</label",
-                "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
-                "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-                "起始页": 2,
-                "倒序": 1,
-                "播放数组": "迅雷下载</div>&&</div>",
-                "播放列表": "<a&&</a >"
-            }
-        },
-        {
-            "key": "布谷tv",
-            "name": "布谷|4K磁力|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
-                "简介": "◎简*介</p>&&</p>",
-                "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
-                "线路标题": "磁力",
-                "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
-                "播放列表": "<p>&&</p>[包含:magnet]",
-                "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
-                "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}",
-                "搜索数组": "class=\"entry-media\">&&</div"
-            }
-        },
-        {
-            "key": "迅雷8",
-            "name": "迅雷吧|XBPQ|磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "播放数组": "copylink&&</a>",
-                "播放链接": "alt=\"&&\"",
-                "简介": "b1f40f7888\"&&</p>",
-                "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
-                "分类": "电视剧$tv#电影$list"
-            }
         },
         {
             "key": "csp_MeijuMi",
