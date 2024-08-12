@@ -81,7 +81,9 @@ https://cdn.jsdelivr.net/gh/hugcabbage/coolplay@main/cool.json
 
 提示3：zip包内预置的aliproxy从jar内的assets改为zip内的aliproxy.gz，可以减少jar包对播放器内存的消耗，但因为aliproxy.gz的释出需要使用到壳上的proxy功能，所以如果播放设备安装了多个类似的播放器，可能导致aliproxy释放出错或运行出错。不要尝试在同一个播放设备上运行多个播放壳，也不要尝试把本jar加载到同一个播放设备的不同播放壳上。
 
-提示4：因为32bit的aliproxy在加速大文件时cpu负载很高，因此默认使用64bit的aliproxy来加速播放，通常较新的盒子或电视都可以无需任何修改直接运行。如果你的设备无法观看网盘原画，那么在排除了使用非原版“影视”“OK影视”“EasyBox”的基础上，可以尝试把tokenm.json中的"aliproxy_url"设置为"aliproxy_url":"./aliproxy.32.gz"这样就可以使用32bit的aliproxy来加速播放，虽然效率较低，但至少能播。
+提示4：本zip会自动检测系统内核是64还是32位，尽量使用aliproxy的64位版本（不带.64扩展名），但受系统限制，有时自动检测会失败，就会回落到aliproxy.32，如果你确定自己的系统内核是64位的，则可以在tokenm.json中设置"aliproxy_url":"./aliproxy.gz;md5=1"来强制使用64位的aliproxy
+
+提示5：播放原盘ISO时，可能会呼叫外部播放器，此时需要把原播放器在任务列表中锁定，防止原播放器切入后台被杀掉，具体方法：按任务列表按钮，找到原播放器，点击图标在弹出菜单中选择锁定或点击锁头标志
 
 可以透过配置中的“网盘及弹幕配置”的视频源来实现快捷方便的获取32位token及opentoken的功能。
 
@@ -99,7 +101,7 @@ tokenm.json格式说明：
 "quark_thread_limit":32, //这里是夸克网盘GO代理的并发协程数或java代理的并发线程数，若遇到账号被限制并发数，请将此数值改为10
 "quark_vip_thread_limit":32, //这里是夸克网盘设置quark_is_vip:true之后的并发线程数，若遇到账号被限制并发数，请将此数值改为10
 "quark_is_vip":false, //本配置项已废弃
-"quark_is_guest":false, //本项目设置为false表示是夸克的VIP或88VIP用户，使用更快的多线程加载方式，设置为false表示是纯免费的夸克用户，使用优化限速的多线程加载方式
+"quark_is_guest":false, //本项目设置为false表示是夸克的VIP或88VIP用户，使用更快的多线程加载方式，设置为true表示是纯免费的夸克用户，使用优化限速的多线程加载方式
 "vod_flags":"4kz|auto", //这里是播放阿里云的画质选项，4kz代表转存GO原画,4ko代表转存Open原画,其他都代表预览画质,可选的预览画质包括qhd,fhd,hd,sd,ld，
 "quark_flags":"4kz|auto", //这里是播放夸克网盘的画质选项，4kz代表转存原画（GO原画），其他都代表转码画质,可选的预览画质包括4k,2k,super,high,low,normal
 "uc_thread_limit":0,
