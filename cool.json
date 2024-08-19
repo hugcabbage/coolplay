@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;920b89211cecb6eb1ded36eec87aec0b",
+    "spider": "./jar/pg.jar;md5;ff15135450f2e096bd041e804624b7ea",
     "lives": [
         {
             "name": "俊于",
@@ -380,7 +380,7 @@
             "filterable": 0,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wog.json$$$TUDOU"
+            "ext": "./lib/_extension.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wogg.json$$$TUDOU"
         },
         {
             "key": "小米网盘",
