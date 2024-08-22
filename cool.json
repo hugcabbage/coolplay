@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;d331af8ecd6686406e28a7cb1372f038",
+    "spider": "./jar/pg.jar;md5;7a9f4f5fbb515a7d17220699c96f9715",
     "lives": [
         {
             "name": "俊于",
@@ -587,7 +587,7 @@
             "type": 3,
             "api": "csp_TGYunPanLocal",
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$https://t.me/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$proxy$$$1"
+            "ext": "./lib/_extension.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"
         },
         {
             "key": "UP云搜",
