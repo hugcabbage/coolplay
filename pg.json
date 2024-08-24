@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;9d90493319817574df3e7df8edef912e",
+    "spider": "./jar/pg.jar;md5;df57d7548ec0de35ea2d287304170902",
     "sites": [
         {
             "key": "豆瓣",
@@ -1093,14 +1093,6 @@
             "name": "异界",
             "type": 3,
             "api": "csp_Ysj",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "爱看",
-            "name": "爱看",
-            "type": 3,
-            "api": "./js/ikanbot_open.js",
             "searchable": 1,
             "changeable": 0
         },
