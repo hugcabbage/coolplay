@@ -57,7 +57,7 @@ https://cdn.jsdelivr.net/gh/hugcabbage/coolplay@main/cool.json
 <details>
   <summary>点击展开/关闭</summary>
 
-有缘人注意：本zip目前仅支持"影视","OK影视","EasyBox"使用，其他播放器或基于影视魔改的播放器使用本zip都会导致网盘内容无法播放。
+有缘人注意：本zip目前仅支持"影视","OK影视","EasyBox"使用，其他播放器或基于影视魔改的播放器使用本zip都会导致网盘内容无法播放。对本zip内的核心jar所作的任何魔改、缝合都会导致网盘原画不可播放。
 
 * 本ZIP所加载的资源完全来自网上公开分享的内容，若有版权问题请联系相关网站删除，本ZIP只读取和播放网络公开资源，既不维护也不储存任何网络资源。
 
