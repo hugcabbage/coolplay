@@ -27,24 +27,6 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "TVB",
-            "type": "0",
-            "pass": true,
-            "url": "https://www.dussl.icu/Tvb_dussl.m3u",
-            "ua": "okhttp/5.2.0",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "4GTV",
-            "type": "0",
-            "pass": true,
-            "url": "https://www.dussl.icu/4gtv_dussl.m3u",
-            "ua": "okhttp/5.2.0",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "初秋语",
             "type": "0",
             "pass": true,
