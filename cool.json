@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;4dbd2dd6c59e5d3275fcb0ae6ec022db",
+    "spider": "./jar/pg.jar;md5;bf3baae72ec785d580f88e97f60404ca",
     "lives": [
         {
             "name": "俊于",
@@ -565,6 +565,14 @@
         },
         {
             "key": "TGYunPan",
+            "name": "TG搜索|网盘搜索",
+            "type": 3,
+            "api": "csp_TGYunPan",
+            "timeout": 60,
+            "ext": "./lib/_extension.json$$$http://127.0.0.1:9999/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$noproxy$$$1"
+        },
+        {
+            "key": "TGYunPanLocal",
             "name": "TG搜索Local|网盘搜索",
             "type": 3,
             "api": "csp_TGYunPanLocal",
