@@ -97,12 +97,13 @@ tokenm.json格式说明：
 {
 "token":"这里填写阿里云盘的32位token，也可以不填写，在播放阿里云盘内容时会弹出窗口，点击QrCode，用阿里云盘app扫码",
 "open_token":"这里填写通过alist或其他openapi提供方申请的aliyun openapi token",
-"thread_limit":32, //这里是阿里云盘的GO代理的并发协程数或java代理的并发线程数
 "is_vip":true, //是否是阿里云盘的VIP用户，设置为true后，使用vip_thread_limit设置的数值来并发加速
 "vip_thread_limit":32, //这里是阿里云盘的转存原画并发线程数
+"vip_thread_limit_night":"19-23=10", //这里是阿里云盘的转存原画夜间并发线程数, 等号前标识夜间时段，等号后标识线程数
 "quark_thread_limit":32, //这里是夸克网盘GO代理的并发协程数或java代理的并发线程数，若遇到账号被限制并发数，请将此数值改为10
 "quark_vip_thread_limit":32, //这里是夸克网盘设置quark_is_vip:true之后的并发线程数，若遇到账号被限制并发数，请将此数值改为10
-"quark_is_vip":false, //本配置项已废弃
+"quark_thread_limit_night":"19-23=10", //这里是夸克网盘GO代理的夜间并发协程数或java代理的并发线程数，若遇到账号被限制并发数，请将此数值改为10
+"quark_vip_thread_limit_night":"19-23=10", //这里是夸克网盘设置quark_is_guest:false之后的夜间并发线程数，若遇到账号被限制并发数，请将此数值改为10
 "quark_is_guest":false, //本项目设置为false表示是夸克的VIP或88VIP用户，使用更快的多线程加载方式，设置为true表示是纯免费的夸克用户，使用优化限速的多线程加载方式
 "vod_flags":"4kz|auto", //这里是播放阿里云的画质选项，4kz代表转存GO原画,4ko代表转存Open原画,其他都代表预览画质,可选的预览画质包括qhd,fhd,hd,sd,ld，
 "quark_flags":"4kz|auto", //这里是播放夸克网盘的画质选项，4kz代表转存原画（GO原画），其他都代表转码画质,可选的预览画质包括4k,2k,super,high,low,normal
@@ -113,7 +114,7 @@ tokenm.json格式说明：
 "thunder_thread_limit":0,
 "thunder_is_vip":false,
 "thunder_vip_thread_limit":0,
-"thunder_flags":"4k|4kz|auto",
+"thunder_flags":"4kz",
 "aliproxy":"这里填写外部的加速代理，用于在盒子性能不够的情况下，使用外部的加速代理来加速播放，可以不填写",
 "proxy":"这里填写用于科学上网的地址，连接openapi或某些资源站可能会需要用到，可以不填写",
 "open_api_url":"https://api.xhofe.top/alist/ali_open/token", //这是alist的openapi接口地址，也可使用其他openapi提供商的地址。
@@ -126,11 +127,21 @@ tokenm.json格式说明：
 "thunder_captchatoken":"首次使用迅雷网盘时，需要使用app弹出的登陆地址去接码登录，并获取captchaToken，具体方法参考alist网站的文档:https://alist.nn.ci/zh/guide/drivers/thunder.html",
 "pikpak_username":"PikPak网盘的用户名",
 "pikpak_password":"PikPak网盘的密码",
-"pikpak_flags":"4k|auto",
+"pikpak_flags":"4kz",
 "pikpak_thread_limit":2,
 "pikpak_vip_thread_limit":2,
 "pikpak_proxy":"用于科学上网连接PikPak网盘的代理服务器地址",
-"pikpak_proxy_onlyapi":false
+"pikpak_proxy_onlyapi":false,
+"pan115_cookie":"",
+"pan115_thread_limit":0,
+"pan115_vip_thread_limit":0,
+"pan115_is_vip":false,
+"pan115_flags":"4kz",
+"pan115_auto_delete":true,
+"pan115_delete_code":"",
+"pan115_speed_limit":0,
+"pan115_speed_limit_mobile":10485760,
+"pan_order":"ali|quark|uc|115|yd|thunder|pikpak"
 }
 ```
 </details>
