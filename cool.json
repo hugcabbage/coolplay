@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/pg.jar;md5;a3b0f0fe5d0de56cb221c4402c8250c1",
+    "spider": "./jar/pg.jar;md5;edb9d4e031377ab0508ae604425c8f44",
     "lives": [
         {
             "name": "俊于",
@@ -232,12 +232,12 @@
             "key": "Hdhive",
             "name": "影巢|网盘",
             "type": 3,
-            "api": "csp_Hdhive",
+            "api": "csp_Hdh",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$https://www.hdhive.online/$$$noproxy$$$1"
+            "ext": "./lib/_extension.json$$$https://hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"
         },
         {
             "key": "Libvio",
