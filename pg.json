@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;eae6256f9103331c23452377da39629b",
+    "spider": "./jar/pg.jar;md5;c1310fe34ced7838d6e09043f44319e1",
     "sites": [
         {
             "key": "豆瓣",
@@ -300,7 +300,15 @@
             "type": 3,
             "api": "csp_TGYunPanLocal",
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$http://127.0.0.1:10199$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$noproxy$$$1"
+            "ext": {
+                "token": "./lib/_extension.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "channellist": "oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+                "proxy": "proxy",
+                "danmu": true
+            }
         },
         {
             "key": "TGYunPan",
@@ -308,7 +316,15 @@
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 60,
-            "ext": "./lib/_extension.json$$$http://127.0.0.1:10199$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"
+            "ext": {
+                "token": "./lib/_extension.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
+                "proxy": "noproxy",
+                "danmu": true
+            }
         },
         {
             "key": "美剧迷",
