@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/pg.jar;md5;a2caecf3cb7c9cdee3106033668024aa",
+    "spider": "./jar/pg.jar;md5;0725009c6edbe0d9e43fa1653839e3bc",
     "sites": [
         {
             "key": "豆瓣",
@@ -1293,7 +1293,31 @@
         {
             "name": "PixMan.4GTV",
             "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/4gtv.m3u",
+            "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/4gtv.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "PixMan.BeeSport",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/beesport.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "PixMan.TheTV",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/thetv.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "PixMan.DLHD",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/dlhd.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -1317,23 +1341,7 @@
         {
             "name": "PixMan.MyTVSuper",
             "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/mytvsuper.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "PixMan.BeeSport",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/beesport.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "PixMan.TheTV",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/thetv.m3u",
+            "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/mytvsuper.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -1341,15 +1349,7 @@
         {
             "name": "PixMan.Hami",
             "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/hami.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "PixMan.DLHD",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/dlhd.m3u",
+            "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/hami.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
